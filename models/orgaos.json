@@ -1,0 +1,570 @@
+[
+  {
+    "orgao_nome": "1ª VARA CÍVEL",
+    "orgao_codigo": 2765
+  },
+  {
+    "orgao_nome": "1ª VARA CRIMINAL DE COMPETÊNCIA RESIDUAL",
+    "orgao_codigo": 2774
+  },
+  {
+    "orgao_nome": "1ª VARA CRIMINAL DO TRIBUNAL DO JÚRI E DA JUSTIÇA MILITAR",
+    "orgao_codigo": 2771
+  },
+  {
+    "orgao_nome": "1ª VARA DA FAZENDA PÚBLICA",
+    "orgao_codigo": 2764
+  },
+  {
+    "orgao_nome": "1ª VARA DA INFÂNCIA E DA JUVENTUDE",
+    "orgao_codigo": 2786
+  },
+  {
+    "orgao_nome": "1ª VARA DE FAMÍLIA",
+    "orgao_codigo": 2763
+  },
+  {
+    "orgao_nome": "1º JUIZADO DE VIOLÊNCIA DOMÉSTICA",
+    "orgao_codigo": 13674
+  },
+  {
+    "orgao_nome": "1º JUIZADO ESPECIAL CÍVEL",
+    "orgao_codigo": 2776
+  },
+  {
+    "orgao_nome": "1º JUIZADO ESPECIAL CÍVEL",
+    "orgao_codigo": 17467
+  },
+  {
+    "orgao_nome": "1º NÚCLEO DA JUSTIÇA 4.0",
+    "orgao_codigo": 83365
+  },
+  {
+    "orgao_nome": "2ª VARA CÍVEL",
+    "orgao_codigo": 2766
+  },
+  {
+    "orgao_nome": "2ª VARA CRIMINAL DE COMPETÊNCIA RESIDUAL",
+    "orgao_codigo": 2775
+  },
+  {
+    "orgao_nome": "2ª VARA CRIMINAL DO TRIBUNAL DO JÚRI E DA JUSTIÇA MILITAR",
+    "orgao_codigo": 13809
+  },
+  {
+    "orgao_nome": "2ª VARA DA FAZENDA PÚBLICA",
+    "orgao_codigo": 2770
+  },
+  {
+    "orgao_nome": "2ª VARA DA INFÂNCIA E DA JUVENTUDE",
+    "orgao_codigo": 78908
+  },
+  {
+    "orgao_nome": "2ª VARA DE FAMÍLIA",
+    "orgao_codigo": 2769
+  },
+  {
+    "orgao_nome": "2º JUIZADO DE VIOLÊNCIA DOMÉSTICA",
+    "orgao_codigo": 76559
+  },
+  {
+    "orgao_nome": "2º JUIZADO ESPECIAL CÍVEL",
+    "orgao_codigo": 2777
+  },
+  {
+    "orgao_nome": "2º NÚCLEO DA JUSTIÇA 4.0",
+    "orgao_codigo": 83366
+  },
+  {
+    "orgao_nome": "3ª VARA CÍVEL",
+    "orgao_codigo": 2767
+  },
+  {
+    "orgao_nome": "3ª VARA CRIMINAL",
+    "orgao_codigo": 12786
+  },
+  {
+    "orgao_nome": "3º JUIZADO ESPECIAL CÍVEL",
+    "orgao_codigo": 2778
+  },
+  {
+    "orgao_nome": "3º NÚCLEO DE JUSTIÇA 4.0",
+    "orgao_codigo": 87375
+  },
+  {
+    "orgao_nome": "4ª VARA CÍVEL",
+    "orgao_codigo": 2768
+  },
+  {
+    "orgao_nome": "4º NÚCLEO DE JUSTIÇA 4.0",
+    "orgao_codigo": 87376
+  },
+  {
+    "orgao_nome": "5ª VARA CÍVEL",
+    "orgao_codigo": 72046
+  },
+  {
+    "orgao_nome": "5º NÚCLEO DE JUSTIÇA 4.0",
+    "orgao_codigo": 87377
+  },
+  {
+    "orgao_nome": "6ª VARA CÍVEL",
+    "orgao_codigo": 72047
+  },
+  {
+    "orgao_nome": "ASSESSORIA JURÍDICA DA PRESIDÊNCIA",
+    "orgao_codigo": 79377
+  },
+  {
+    "orgao_nome": "ASSESSORIA JURÍDICA DO NÚCLEO DE GERENCIMENTO DE PRECEDENTES E AÇÕES COLETIVAS",
+    "orgao_codigo": 79419
+  },
+  {
+    "orgao_nome": "ASSESSORIA JURÍDICA VIRTUAL",
+    "orgao_codigo": 79380
+  },
+  {
+    "orgao_nome": "BIBLIOTECA",
+    "orgao_codigo": 79373
+  },
+  {
+    "orgao_nome": "CÂMARA CÍVEL",
+    "orgao_codigo": 29603
+  },
+  {
+    "orgao_nome": "CÂMARA CÍVEL",
+    "orgao_codigo": 29587
+  },
+  {
+    "orgao_nome": "CÂMARA CRIMINAL",
+    "orgao_codigo": 29588
+  },
+  {
+    "orgao_nome": "CÂMARA CRIMINAL",
+    "orgao_codigo": 29604
+  },
+  {
+    "orgao_nome": "CÂMARAS REUNIDAS",
+    "orgao_codigo": 83222
+  },
+  {
+    "orgao_nome": "CENTRAL DE ATENDIMENTO, DISTRIBUIÇÃO E CONCILIAÇÃO DOS JUIZADOS ESPECIAIS",
+    "orgao_codigo": 29585
+  },
+  {
+    "orgao_nome": "CENTRAL DE GERENCIAMENTO DE DEMANDA",
+    "orgao_codigo": 79375
+  },
+  {
+    "orgao_nome": "CENTRAL DE MANDADOS",
+    "orgao_codigo": 29586
+  },
+  {
+    "orgao_nome": "CENTRO JUDICIÁRIO DE SOLUÇÃO DE CONFLITOS E CIDADANIA - RORAINÓPOLIS",
+    "orgao_codigo": 85705
+  },
+  {
+    "orgao_nome": "CENTROS JUDICIÁRIOS DE SOLUÇÕES DE CONFLITOS E CIDADANIA",
+    "orgao_codigo": 79384
+  },
+  {
+    "orgao_nome": "COMARCA DE ALTO ALEGRE",
+    "orgao_codigo": 2780
+  },
+  {
+    "orgao_nome": "COMARCA DE BONFIM",
+    "orgao_codigo": 12910
+  },
+  {
+    "orgao_nome": "COMARCA DE CARACARAÍ",
+    "orgao_codigo": 2781
+  },
+  {
+    "orgao_nome": "COMARCA DE MUCAJAÍ",
+    "orgao_codigo": 2782
+  },
+  {
+    "orgao_nome": "COMARCA DE PACARAIMA",
+    "orgao_codigo": 2783
+  },
+  {
+    "orgao_nome": "COMARCA DE RORAINÓPOLIS",
+    "orgao_codigo": 2784
+  },
+  {
+    "orgao_nome": "COMARCA DE SÃO LUIZ",
+    "orgao_codigo": 2785
+  },
+  {
+    "orgao_nome": "COMISSÃO PERMANENTE DE LEGISLAÇÃO E JURISPRUDÊNCIA",
+    "orgao_codigo": 79409
+  },
+  {
+    "orgao_nome": "CONSELHO DA MAGISTRATURA",
+    "orgao_codigo": 29590
+  },
+  {
+    "orgao_nome": "CONTADORIA JUDICIAL",
+    "orgao_codigo": 79392
+  },
+  {
+    "orgao_nome": "COORDENAÇÃO DE PROGRAMAS DE ACESSO À JUSTIÇA",
+    "orgao_codigo": 79405
+  },
+  {
+    "orgao_nome": "COORDENADORIA DA INFÂNCIA E DA JUVENTUDE",
+    "orgao_codigo": 70671
+  },
+  {
+    "orgao_nome": "COORDENADORIA DA SECRETARIA UNIFICADA DAS VARAS CRIMINAIS, DA SECRETARIA UNIFICADA DOS JUIZADOS DE VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA A MULHER E DA SECRETARIA DE PROCESSAMENTO JUDICIAL ELETRÔNICO DAS VARAS CRIMINAIS E DOS JUIZADOS DE VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA A MULHER",
+    "orgao_codigo": 79414
+  },
+  {
+    "orgao_nome": "COORDENADORIA DOS JUIZADOS ESPECIAIS",
+    "orgao_codigo": 70670
+  },
+  {
+    "orgao_nome": "COORDENADORIA ESTADUAL DA MULHER EM SITUAÇÃO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR",
+    "orgao_codigo": 79393
+  },
+  {
+    "orgao_nome": "CORREGEDORIA GERAL DE JUSTIÇA",
+    "orgao_codigo": 70672
+  },
+  {
+    "orgao_nome": "DIRETORIA DE APOIO AO PRIMEIRO GRAU",
+    "orgao_codigo": 79378
+  },
+  {
+    "orgao_nome": "DIRETORIA DO FÓRUM CÍVEL",
+    "orgao_codigo": 70673
+  },
+  {
+    "orgao_nome": "DIRETORIA DO FÓRUM CRIMINAL",
+    "orgao_codigo": 79385
+  },
+  {
+    "orgao_nome": "DIVISÃO DE ACOMPANHAMENTO DA VARA DE PENAS E MEDIDAS ALTERNATIVAS",
+    "orgao_codigo": 79413
+  },
+  {
+    "orgao_nome": "DIVISÃO DE PROTEÇÃO UNIFICADA DAS VARAS DA INFÂNCIA E DA JUVENTUDE DA COMARCA DE BOA VISTA",
+    "orgao_codigo": 79400
+  },
+  {
+    "orgao_nome": "EQUIPE DE PROCESSAMENTO REMOTO",
+    "orgao_codigo": 79379
+  },
+  {
+    "orgao_nome": "EQUIPE INTERPROFISSIONAL DAS VARAS DA INFÂNCIA E DA JUVENTUDE",
+    "orgao_codigo": 79399
+  },
+  {
+    "orgao_nome": "EQUIPE MULTIPROFISSIONAL DA PRIMEIRA E DA SEGUNDA VARAS DE FAMÍLIA",
+    "orgao_codigo": 79402
+  },
+  {
+    "orgao_nome": "EQUIPE MULTIPROFISSIONAL DA VARA DA JUSTIÇA ITINERANTE",
+    "orgao_codigo": 79404
+  },
+  {
+    "orgao_nome": "EQUIPE MULTIPROFISSIONAL DA VARA DE PENAS E MEDIDAS ALTERNATIVAS",
+    "orgao_codigo": 79412
+  },
+  {
+    "orgao_nome": "EQUIPE MULTIPROFISSIONAL DO GRUPO DE MONITORAMENTO E FISCALIZAÇÃO DO SISTEMA CARCERÁRIO - GMF",
+    "orgao_codigo": 83926
+  },
+  {
+    "orgao_nome": "EQUIPE MULTIPROFISSIONAL DOS JUIZADOS DE VIOLÊNCIA DOMÉSTICA",
+    "orgao_codigo": 79411
+  },
+  {
+    "orgao_nome": "GABINETE DA DESEMBARGADORA ELAINE CRISTINA BIANCHI",
+    "orgao_codigo": 29591
+  },
+  {
+    "orgao_nome": "GABINETE DA DESEMBARGADORA TANIA VASCONCELOS DIAS",
+    "orgao_codigo": 29592
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR ALMIRO PADILHA",
+    "orgao_codigo": 29593
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR CRISTÓVÃO JOSÉ SUTER CORREIA DA SILVA",
+    "orgao_codigo": 29594
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR ERICK LINHARES",
+    "orgao_codigo": 85127
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR GURSEN DE MIRANDA",
+    "orgao_codigo": 29595
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR JEFFERSON FERNANDES DA SILVA",
+    "orgao_codigo": 29596
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR JESUS RODRIGUES DO NASCIMENTO",
+    "orgao_codigo": 78575
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR JOSÉ PEDRO FERNANDES",
+    "orgao_codigo": 70676
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR LEONARDO CUPELLO",
+    "orgao_codigo": 29597
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR LUPERCINO NOGUEIRA",
+    "orgao_codigo": 70677
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR MAURO CAMPELLO",
+    "orgao_codigo": 29598
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR MOZARILDO MONTEIRO CAVALCANTI",
+    "orgao_codigo": 29599
+  },
+  {
+    "orgao_nome": "GABINETE DO DESEMBARGADOR RICARDO OLIVEIRA",
+    "orgao_codigo": 29600
+  },
+  {
+    "orgao_nome": "GABINETE DOS JUÍZES SUBSTITUTOS",
+    "orgao_codigo": 79417
+  },
+  {
+    "orgao_nome": "GRUPO DE MONITORAMENTO E FISCALIZAÇÃO DO SISTEMA CARCERÁRIO - GMF",
+    "orgao_codigo": 79406
+  },
+  {
+    "orgao_nome": "JUIZADO ESPECIAL CRIMINAL",
+    "orgao_codigo": 2779
+  },
+  {
+    "orgao_nome": "JUIZADO ESPECIAL DA FAZENDA PÚBLICA",
+    "orgao_codigo": 16548
+  },
+  {
+    "orgao_nome": "MUTIRÃO DAS VARAS CRIMINAIS",
+    "orgao_codigo": 70674
+  },
+  {
+    "orgao_nome": "MUTIRÃO DOS PROCESSOS DE EXECUÇÃO FISCAL",
+    "orgao_codigo": 70675
+  },
+  {
+    "orgao_nome": "NÚCLEO DE APOIO TÉCNICO DO PODER JUDICIÁRIO",
+    "orgao_codigo": 79420
+  },
+  {
+    "orgao_nome": "NÚCLEO DE GERENCIAMENTO DE PRECEDENTES E AÇÕES COLETIVAS",
+    "orgao_codigo": 79418
+  },
+  {
+    "orgao_nome": "NÚCLEO DE PLANTÃO JUDICIAL E AUDIÊNCIAS DE CUSTÓDIA",
+    "orgao_codigo": 79383
+  },
+  {
+    "orgao_nome": "NÚCLEO DE PRECATÓRIOS",
+    "orgao_codigo": 79381
+  },
+  {
+    "orgao_nome": "NÚCLEO PERMANENTE DE MÉTODOS CONSENSUAIS DE SOLUÇÃO DE CONFLITOS",
+    "orgao_codigo": 79382
+  },
+  {
+    "orgao_nome": "OUVIDORIA GERAL",
+    "orgao_codigo": 83223
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE AMAJARI",
+    "orgao_codigo": 86464
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE CANTÁ",
+    "orgao_codigo": 86478
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE CAROEBE",
+    "orgao_codigo": 86466
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE CASA DO CIDADÃO",
+    "orgao_codigo": 86460
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE IRACEMA",
+    "orgao_codigo": 86461
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE NORMANDIA",
+    "orgao_codigo": 86462
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE OPERAÇÃO ACOLHIDA",
+    "orgao_codigo": 86465
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE SANTA MARIA DO BOIAÇU",
+    "orgao_codigo": 86468
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE SÃO JOÃO DA BALIZA",
+    "orgao_codigo": 86467
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE UIRAMUTÃ",
+    "orgao_codigo": 86463
+  },
+  {
+    "orgao_nome": "POSTO AVANÇADO DE ATENDIMENTO - UNIDADE WAIMIRI-ATROARI",
+    "orgao_codigo": 86459
+  },
+  {
+    "orgao_nome": "PRESIDÊNCIA",
+    "orgao_codigo": 29601
+  },
+  {
+    "orgao_nome": "SECRETARIA DAS CÂMARAS REUNIDAS",
+    "orgao_codigo": 29589
+  },
+  {
+    "orgao_nome": "SECRETARIA DO TRIBUNAL PLENO",
+    "orgao_codigo": 79374
+  },
+  {
+    "orgao_nome": "SECRETARIA JUDICIAL REMOTA DO INTERIOR - SJRI",
+    "orgao_codigo": 82510
+  },
+  {
+    "orgao_nome": "SECRETARIA PROCES JUDICIAL ELETRONICO VARAS CRIM E JUIZ VIOLENCIA DOM",
+    "orgao_codigo": 79421
+  },
+  {
+    "orgao_nome": "SECRETARIA UNIFICADA DAS VARAS CRIMINAIS",
+    "orgao_codigo": 79416
+  },
+  {
+    "orgao_nome": "SECRETARIA UNIFICADA DAS VARAS DA INFÂNCIA E DA JUVENTUDE DA COMARCA DE BOA VISTA",
+    "orgao_codigo": 79410
+  },
+  {
+    "orgao_nome": "SECRETARIA UNIFICADA DOS JUIZADOS DE VIOLÊNCIA DOMÉSTICA",
+    "orgao_codigo": 79415
+  },
+  {
+    "orgao_nome": "SECRETARIA UNIFICADA DOS JUIZADOS ESPECIAIS CÍVEIS DA COMARCA DE BOA VISTA",
+    "orgao_codigo": 79395
+  },
+  {
+    "orgao_nome": "SETOR DE ANÁLISE DE OFÍCIOS DE REQUISIÇÃO",
+    "orgao_codigo": 83225
+  },
+  {
+    "orgao_nome": "SETOR DE ARQUIVO GERAL",
+    "orgao_codigo": 79376
+  },
+  {
+    "orgao_nome": "SETOR DE ATENDIMENTO, ATERMAÇÃO E DISTRIBUIÇÃO",
+    "orgao_codigo": 79398
+  },
+  {
+    "orgao_nome": "SETOR DE ATIVIDADES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA A MULHER",
+    "orgao_codigo": 79394
+  },
+  {
+    "orgao_nome": "SETOR DE CONCILIAÇÃO",
+    "orgao_codigo": 79396
+  },
+  {
+    "orgao_nome": "SETOR DE DISTRIBUIÇÃO CÍVEL",
+    "orgao_codigo": 29584
+  },
+  {
+    "orgao_nome": "SETOR DE DISTRIBUIÇÃO CRIMINAL",
+    "orgao_codigo": 79389
+  },
+  {
+    "orgao_nome": "SETOR DE DISTRIBUIÇÃO DE EXECUÇÃO PENAL",
+    "orgao_codigo": 79386
+  },
+  {
+    "orgao_nome": "SETOR DE GESTÃO DA UNIDADE DE JUSTIÇA RESTAURATIVA - UNIJUR",
+    "orgao_codigo": 87662
+  },
+  {
+    "orgao_nome": "SETOR DE GESTÃO DO NAT-JUS",
+    "orgao_codigo": 87649
+  },
+  {
+    "orgao_nome": "SETOR DE MOVIMENTAÇÃO PROCESSUAL E EXECUÇÃO",
+    "orgao_codigo": 79397
+  },
+  {
+    "orgao_nome": "SETOR DE PRIMEIRO ATENDIMENTO",
+    "orgao_codigo": 79390
+  },
+  {
+    "orgao_nome": "SETOR DE PRIMEIRO ATENDIMENTO E PROTOCOLO CÍVEL",
+    "orgao_codigo": 79391
+  },
+  {
+    "orgao_nome": "SETOR DE PRIMEIRO ATENDIMENTO E PROTOCOLO CRIMINAL",
+    "orgao_codigo": 79387
+  },
+  {
+    "orgao_nome": "SETOR DE RELACIONAMENTO COM O CIDADÃO",
+    "orgao_codigo": 83224
+  },
+  {
+    "orgao_nome": "SUBDIRETORIA DE BENS APREENDIDOS",
+    "orgao_codigo": 79388
+  },
+  {
+    "orgao_nome": "SUBSECRETARIA DE GESTÃO DOCUMENTAL",
+    "orgao_codigo": 79408
+  },
+  {
+    "orgao_nome": "TRIBUNAL PLENO",
+    "orgao_codigo": 29602
+  },
+  {
+    "orgao_nome": "TURMA RECURSAL DOS JUIZADOS ESPECIAIS",
+    "orgao_codigo": 18229
+  },
+  {
+    "orgao_nome": "VARA DA JUSTIÇA ITINERANTE",
+    "orgao_codigo": 2787
+  },
+  {
+    "orgao_nome": "VARA DE CRIMES CONTRA VULNERÁVEIS",
+    "orgao_codigo": 70824
+  },
+  {
+    "orgao_nome": "VARA DE ENTORPECENTES E ORG. CRIMINOSAS",
+    "orgao_codigo": 2772
+  },
+  {
+    "orgao_nome": "VARA DE EXECUÇÃO DE PENAS E MEDIDAS ALTERNATIVAS À PENA PRIVATIVA DE LIBERDADE",
+    "orgao_codigo": 18099
+  },
+  {
+    "orgao_nome": "VARA DE EXECUÇÃO FISCAL",
+    "orgao_codigo": 84323
+  },
+  {
+    "orgao_nome": "VARA DE EXECUÇÃO PENAL",
+    "orgao_codigo": 2773
+  },
+  {
+    "orgao_nome": "VICE-PRESIDÊNCIA",
+    "orgao_codigo": 29605
+  }
+]

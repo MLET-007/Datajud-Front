@@ -1,0 +1,7508 @@
+[
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 159,
+    "codnivel4": 12079,
+    "codnivel5": "NULL",
+    "codclasse": 12079,
+    "descclasse": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL CONTRA A FAZENDA PÚBLICA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 159,
+    "codnivel4": 12154,
+    "codnivel5": "NULL",
+    "codclasse": 12154,
+    "descclasse": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 159,
+    "codnivel4": 12247,
+    "codnivel5": "NULL",
+    "codclasse": 12247,
+    "descclasse": "EXECUÇÃO EXTRAJUDICIAL DE ALIMENTOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 159,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 159,
+    "descclasse": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 165,
+    "codnivel4": 166,
+    "codnivel5": "NULL",
+    "codclasse": 166,
+    "descclasse": "INSOLVÊNCIA REQUERIDA PELO CREDOR"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 165,
+    "codnivel4": 167,
+    "codnivel5": "NULL",
+    "codclasse": 167,
+    "descclasse": "INSOLVÊNCIA REQUERIDA PELO DEVEDOR OU PELO ESPÓLIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 165,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 165,
+    "descclasse": "INSOLVÊNCIA CIVIL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 169,
+    "codnivel4": 170,
+    "codnivel5": "NULL",
+    "codclasse": 170,
+    "descclasse": "EMBARGOS À ADJUDICAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 169,
+    "codnivel4": 171,
+    "codnivel5": "NULL",
+    "codclasse": 171,
+    "descclasse": "EMBARGOS À ARREMATAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 169,
+    "codnivel4": 172,
+    "codnivel5": "NULL",
+    "codclasse": 172,
+    "descclasse": "EMBARGOS À EXECUÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 169,
+    "codnivel4": 173,
+    "codnivel5": "NULL",
+    "codclasse": 173,
+    "descclasse": "EMBARGOS DE RETENÇÃO POR BENFEITORIAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 169,
+    "codnivel4": 1118,
+    "codnivel5": "NULL",
+    "codclasse": 1118,
+    "descclasse": "EMBARGOS À EXECUÇÃO FISCAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 169,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 169,
+    "descclasse": "EMBARGOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1068,
+    "codnivel4": 990,
+    "codnivel5": "NULL",
+    "codclasse": 990,
+    "descclasse": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1068,
+    "codnivel4": 991,
+    "codnivel5": "NULL",
+    "codclasse": 991,
+    "descclasse": "EXECUÇÃO DE TERMO DE AJUSTE DE CONDUTA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1068,
+    "codnivel4": 992,
+    "codnivel5": "NULL",
+    "codclasse": 992,
+    "descclasse": "EXECUÇÃO DE TERMO DE CONCILIAÇÃO DE CCP"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1068,
+    "codnivel4": 993,
+    "codnivel5": "NULL",
+    "codclasse": 993,
+    "descclasse": "EXECUÇÃO DE CERTIDÃO DE CRÉDITO JUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1068,
+    "codnivel4": 994,
+    "codnivel5": "NULL",
+    "codclasse": 994,
+    "descclasse": "EXECUÇÃO PROVISÓRIA EM AUTOS SUPLEMENTARES"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1068,
+    "codnivel4": 15187,
+    "codnivel5": "NULL",
+    "codclasse": 15187,
+    "descclasse": "PLANO ESPECIAL DE PAGAMENTO TRABALHISTA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1068,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1068,
+    "descclasse": "PROCESSO DE EXECUÇÃO TRABALHISTA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1111,
+    "codnivel4": 1112,
+    "codnivel5": "NULL",
+    "codclasse": 1112,
+    "descclasse": "EXECUÇÃO DE ALIMENTOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1111,
+    "codnivel4": 1114,
+    "codnivel5": "NULL",
+    "codclasse": 1114,
+    "descclasse": "EXECUÇÃO CONTRA A FAZENDA PÚBLICA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1111,
+    "codnivel4": 12251,
+    "codnivel5": "NULL",
+    "codclasse": 12251,
+    "descclasse": "EXECUÇÃO DE TÍTULO JUDICIAL - CEJUSC"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1111,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1111,
+    "descclasse": "EXECUÇÃO DE TÍTULO JUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1116,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1116,
+    "descclasse": "EXECUÇÃO FISCAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": 1117,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1117,
+    "descclasse": "EXECUÇÃO HIPOTECÁRIA DO SISTEMA FINANCEIRO DA HABITAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 158,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 158,
+    "descclasse": "PROCESSO DE EXECUÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 83,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 83,
+    "descclasse": "CAUTELAR FISCAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 176,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 176,
+    "descclasse": "ALIMENTOS - PROVISIONAIS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 177,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 177,
+    "descclasse": "APREENSÃO DE  TÍTULOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 178,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 178,
+    "descclasse": "ARRESTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 179,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 179,
+    "descclasse": "ARROLAMENTO DE BENS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 180,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 180,
+    "descclasse": "ATENTADO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 181,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 181,
+    "descclasse": "BUSCA E APREENSÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 182,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 182,
+    "descclasse": "CAUÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 183,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 183,
+    "descclasse": "CAUTELAR INOMINADA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 186,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 186,
+    "descclasse": "EXIBIÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 188,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 188,
+    "descclasse": "HOMOLOGAÇÃO DO PENHOR LEGAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 190,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 190,
+    "descclasse": "JUSTIFICAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 191,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 191,
+    "descclasse": "PROTESTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 192,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 192,
+    "descclasse": "POSSE EM NOME DO NASCITURO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 193,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 193,
+    "descclasse": "PRODUÇÃO ANTECIPADA DA PROVA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 194,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 194,
+    "descclasse": "REGULAMENTAÇÃO DE VISITAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 195,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 195,
+    "descclasse": "SEPARAÇÃO DE CORPOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 196,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 196,
+    "descclasse": "SEQÜESTRO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 1233,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1233,
+    "descclasse": "EFEITO SUSPENSIVO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 1289,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1289,
+    "descclasse": "OUTRAS MEDIDAS PROVISIONAIS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 1723,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1723,
+    "descclasse": "CONTRAPROTESTO JUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 1725,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1725,
+    "descclasse": "NOTIFICAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 1726,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1726,
+    "descclasse": "INTERPELAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 12083,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12083,
+    "descclasse": "TUTELA ANTECIPADA ANTECEDENTE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": 12084,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12084,
+    "descclasse": "TUTELA CAUTELAR ANTECEDENTE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 175,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 175,
+    "descclasse": "PROCESSO CAUTELAR"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 198,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 198,
+    "descclasse": "APELAÇÃO CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 199,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 199,
+    "descclasse": "REMESSA NECESSÁRIA CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 200,
+    "codnivel4": 202,
+    "codnivel5": "NULL",
+    "codclasse": 202,
+    "descclasse": "AGRAVO DE INSTRUMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 200,
+    "codnivel4": 203,
+    "codnivel5": "NULL",
+    "codclasse": 203,
+    "descclasse": "AGRAVO DE INSTRUMENTO EM RECURSO ESPECIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 200,
+    "codnivel4": 204,
+    "codnivel5": "NULL",
+    "codclasse": 204,
+    "descclasse": "AGRAVO DE INSTRUMENTO EM RECURSO EXTRAORDINÁRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 200,
+    "codnivel4": 206,
+    "codnivel5": "NULL",
+    "codclasse": 206,
+    "descclasse": "AGRAVO REGIMENTAL CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 200,
+    "codnivel4": 1208,
+    "codnivel5": "NULL",
+    "codclasse": 1208,
+    "descclasse": "AGRAVO INTERNO CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 200,
+    "codnivel4": 14774,
+    "codnivel5": "NULL",
+    "codclasse": 14774,
+    "descclasse": "AGRAVO DE INSTRUMENTO EM MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 200,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 200,
+    "descclasse": "AGRAVOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 207,
+    "codnivel4": 208,
+    "codnivel5": "NULL",
+    "codclasse": 208,
+    "descclasse": "EMBARGOS INFRINGENTES"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 207,
+    "codnivel4": 210,
+    "codnivel5": "NULL",
+    "codclasse": 210,
+    "descclasse": "EMBARGOS INFRINGENTES NA EXECUÇÃO FISCAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 207,
+    "codnivel4": 1689,
+    "codnivel5": "NULL",
+    "codclasse": 1689,
+    "descclasse": "EMBARGOS DE DECLARAÇÃO CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 207,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 207,
+    "descclasse": "EMBARGOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 211,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 211,
+    "descclasse": "RECURSO ORDINÁRIO CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 212,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 212,
+    "descclasse": "RECURSO EXTRAORDINÁRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 213,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 213,
+    "descclasse": "RECURSO ESPECIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 460,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 460,
+    "descclasse": "RECURSO INOMINADO CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1006,
+    "codnivel5": "NULL",
+    "codclasse": 1006,
+    "descclasse": "EMBARGOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1007,
+    "codnivel5": "NULL",
+    "codclasse": 1007,
+    "descclasse": "EMBARGOS INFRINGENTES"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1008,
+    "codnivel5": "NULL",
+    "codclasse": 1008,
+    "descclasse": "RECURSO DE REVISTA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1009,
+    "codnivel5": "NULL",
+    "codclasse": 1009,
+    "descclasse": "RECURSO ORDINÁRIO TRABALHISTA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1209,
+    "codnivel5": 1000,
+    "codclasse": 1000,
+    "descclasse": "AGRAVO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1209,
+    "codnivel5": 1001,
+    "codclasse": 1001,
+    "descclasse": "AGRAVO DE INSTRUMENTO EM AGRAVO DE PETIÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1209,
+    "codnivel5": 1002,
+    "codclasse": 1002,
+    "descclasse": "AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1209,
+    "codnivel5": 1003,
+    "codclasse": 1003,
+    "descclasse": "AGRAVO DE INSTRUMENTO EM RECURSO ORDINÁRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1209,
+    "codnivel5": 1004,
+    "codclasse": 1004,
+    "descclasse": "AGRAVO DE PETIÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1209,
+    "codnivel5": 1005,
+    "codclasse": 1005,
+    "descclasse": "AGRAVO REGIMENTAL TRABALHISTA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1209,
+    "codnivel5": 11400,
+    "codclasse": 11400,
+    "descclasse": "AGRAVO DE INSTRUMENTO EM RECURSO ORDINÁRIO PARA O STF"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1209,
+    "codnivel5": 14775,
+    "codclasse": 14775,
+    "descclasse": "AGRAVO DE INSTRUMENTO EM MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1209,
+    "codnivel5": "NULL",
+    "codclasse": 1209,
+    "descclasse": "AGRAVOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1267,
+    "codnivel5": "NULL",
+    "codclasse": 1267,
+    "descclasse": "RECURSO DE MULTA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 1685,
+    "codnivel5": "NULL",
+    "codclasse": 1685,
+    "descclasse": "REMESSA NECESSÁRIA TRABALHISTA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 11027,
+    "codnivel5": "NULL",
+    "codclasse": 11027,
+    "descclasse": "REMESSA NECESSÁRIA / RECURSO ORDINÁRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 11882,
+    "codnivel5": "NULL",
+    "codclasse": 11882,
+    "descclasse": "RECURSO DE REVISTA COM AGRAVO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 11886,
+    "codnivel5": "NULL",
+    "codclasse": 11886,
+    "descclasse": "RECURSO ORDINÁRIO - RITO SUMARÍSSIMO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": 12760,
+    "codnivel5": "NULL",
+    "codclasse": 12760,
+    "descclasse": "RECURSO DE JULGAMENTO PARCIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1071,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1071,
+    "descclasse": "RECURSOS TRABALHISTAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1271,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1271,
+    "descclasse": "RECURSO DE MEDIDA CAUTELAR CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 1728,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1728,
+    "descclasse": "APELAÇÃO / REMESSA NECESSÁRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": 10942,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 10942,
+    "descclasse": "CORREIÇÃO PARCIAL CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 197,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 197,
+    "descclasse": "RECURSOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 216,
+    "codnivel5": "NULL",
+    "codclasse": 216,
+    "descclasse": "INCIDENTE DE ARGUIÇÃO DE INCONSTITUCIONALIDADE CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 218,
+    "codnivel5": "NULL",
+    "codclasse": 218,
+    "descclasse": "ASSISTÊNCIA JUDICIÁRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 221,
+    "codnivel5": "NULL",
+    "codclasse": 221,
+    "descclasse": "CONFLITO DE COMPETÊNCIA CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 224,
+    "codnivel5": 1230,
+    "codclasse": 1230,
+    "descclasse": "EXCEÇÃO DE IMPEDIMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 224,
+    "codnivel5": 1231,
+    "codclasse": 1231,
+    "descclasse": "EXCEÇÃO DE SUSPEIÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 224,
+    "codnivel5": 1232,
+    "codclasse": 1232,
+    "descclasse": "EXCEÇÃO DE INCOMPETÊNCIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 224,
+    "codnivel5": "NULL",
+    "codclasse": 224,
+    "descclasse": "EXCEÇÕES"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 228,
+    "codnivel5": "NULL",
+    "codclasse": 228,
+    "descclasse": "EXIBIÇÃO DE DOCUMENTO OU COISA CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 230,
+    "codnivel5": "NULL",
+    "codclasse": 230,
+    "descclasse": "IMPUGNAÇÃO AO PEDIDO DE ASSISTÊNCIA LITISCONSORCIAL OU SIMPLES"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 231,
+    "codnivel5": "NULL",
+    "codclasse": 231,
+    "descclasse": "IMPUGNAÇÃO AO VALOR DA CAUSA CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 232,
+    "codnivel5": "NULL",
+    "codclasse": 232,
+    "descclasse": "INCIDENTE DE FALSIDADE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 233,
+    "codnivel5": "NULL",
+    "codclasse": 233,
+    "descclasse": "INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 234,
+    "codnivel5": "NULL",
+    "codclasse": 234,
+    "descclasse": "REMOÇÃO DE INVENTARIANTE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 236,
+    "codnivel5": "NULL",
+    "codclasse": 236,
+    "descclasse": "OPOSIÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 457,
+    "codnivel5": "NULL",
+    "codclasse": 457,
+    "descclasse": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 1285,
+    "codnivel5": "NULL",
+    "codclasse": 1285,
+    "descclasse": "CONFLITO DE ATRIBUIÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 1702,
+    "codnivel5": "NULL",
+    "codclasse": 1702,
+    "descclasse": "IMPUGNAÇÃO DE ASSISTÊNCIA JUDICIÁRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 12075,
+    "codnivel5": "NULL",
+    "codclasse": 12075,
+    "descclasse": "PROCEDIMENTO CONCILIATÓRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 12080,
+    "codnivel5": "NULL",
+    "codclasse": 12080,
+    "descclasse": "INCIDENTE DE IMPEDIMENTO CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 12081,
+    "codnivel5": "NULL",
+    "codclasse": 12081,
+    "descclasse": "INCIDENTE DE SUSPEIÇÃO CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 12085,
+    "codnivel5": "NULL",
+    "codclasse": 12085,
+    "descclasse": "INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 12087,
+    "codnivel5": "NULL",
+    "codclasse": 12087,
+    "descclasse": "INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 12119,
+    "codnivel5": "NULL",
+    "codclasse": 12119,
+    "descclasse": "INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 12153,
+    "codnivel5": "NULL",
+    "codclasse": 12153,
+    "descclasse": "EMBARGOS PARCIAIS À AÇÃO MONITÓRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": 14991,
+    "codnivel5": "NULL",
+    "codclasse": 14991,
+    "descclasse": "CLASSIFICAÇÃO DE CRÉDITO PÚBLICO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 215,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 215,
+    "descclasse": "INCIDENTES"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 237,
+    "codnivel4": 238,
+    "codnivel5": "NULL",
+    "codclasse": 238,
+    "descclasse": "AVOCATÓRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 237,
+    "codnivel4": 239,
+    "codnivel5": "NULL",
+    "codclasse": 239,
+    "descclasse": "HABILITAÇÃO PARA CASAMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 237,
+    "codnivel4": 240,
+    "codnivel5": "NULL",
+    "codclasse": 240,
+    "descclasse": "INSTRUÇÃO DE RESCISÓRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 237,
+    "codnivel4": 241,
+    "codnivel5": "NULL",
+    "codclasse": 241,
+    "descclasse": "PETIÇÃO CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 237,
+    "codnivel4": 242,
+    "codnivel5": "NULL",
+    "codclasse": 242,
+    "descclasse": "COMUNICAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 237,
+    "codnivel4": 251,
+    "codnivel5": "NULL",
+    "codclasse": 251,
+    "descclasse": "REGISTRO DE CASAMENTO NUNCUPATIVO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 237,
+    "codnivel4": 1701,
+    "codnivel5": "NULL",
+    "codclasse": 1701,
+    "descclasse": "NOMEAÇÃO DE ADVOGADO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 237,
+    "codnivel4": 12139,
+    "codnivel5": "NULL",
+    "codclasse": 12139,
+    "descclasse": "CONTESTAÇÃO EM FORO DIVERSO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 237,
+    "codnivel4": 12357,
+    "codnivel5": "NULL",
+    "codclasse": 12357,
+    "descclasse": "PEDIDO DE EFEITO SUSPENSIVO À APELAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 237,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 237,
+    "descclasse": "ATOS E EXPEDIENTES"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 257,
+    "codnivel4": 258,
+    "codnivel5": "NULL",
+    "codclasse": 258,
+    "descclasse": "CARTA DE ORDEM CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 257,
+    "codnivel4": 261,
+    "codnivel5": "NULL",
+    "codclasse": 261,
+    "descclasse": "CARTA PRECATÓRIA CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 257,
+    "codnivel4": 264,
+    "codnivel5": "NULL",
+    "codclasse": 264,
+    "descclasse": "CARTA ROGATÓRIA CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 257,
+    "codnivel4": 12082,
+    "codnivel5": "NULL",
+    "codclasse": 12082,
+    "descclasse": "CARTA ARBITRAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 257,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 257,
+    "descclasse": "CARTAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 1070,
+    "codnivel4": 1072,
+    "codnivel5": "NULL",
+    "codclasse": 1072,
+    "descclasse": "PEDIDO DE REVISÃO DO VALOR DA CAUSA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 1070,
+    "codnivel4": 1145,
+    "codnivel5": "NULL",
+    "codclasse": 1145,
+    "descclasse": "CONFLITO DE COMPETÊNCIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 1070,
+    "codnivel4": 12132,
+    "codnivel5": "NULL",
+    "codclasse": 12132,
+    "descclasse": "INCIDENTE DE JULGAMENTO DE RECURSO DE REVISTA E DE EMBARGOS REPETITIVOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 1070,
+    "codnivel4": 12391,
+    "codnivel5": "NULL",
+    "codclasse": 12391,
+    "descclasse": "INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 1070,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1070,
+    "descclasse": "INCIDENTES TRABALHISTAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 12137,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12137,
+    "descclasse": "REQUERIMENTO DE APREENSÃO DE VEÍCULO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 12232,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12232,
+    "descclasse": "AÇÃO DE PARTILHA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 15167,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15167,
+    "descclasse": "ACORDO DE NÃO PERSECUÇÃO CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": 15309,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15309,
+    "descclasse": "MEDIDAS PROTETIVAS DE URGÊNCIA (LEI MARIA DA PENHA) - CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 214,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 214,
+    "descclasse": "OUTROS PROCEDIMENTOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 150,
+    "codnivel4": 151,
+    "codnivel5": "NULL",
+    "codclasse": 151,
+    "descclasse": "LIQUIDAÇÃO POR ARBITRAMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 150,
+    "codnivel4": 152,
+    "codnivel5": "NULL",
+    "codclasse": 152,
+    "descclasse": "LIQUIDAÇÃO DE SENTENÇA PELO PROCEDIMENTO COMUM"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 150,
+    "codnivel4": 153,
+    "codnivel5": "NULL",
+    "codclasse": 153,
+    "descclasse": "LIQUIDAÇÃO PROVISÓRIA POR ARBITRAMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 150,
+    "codnivel4": 154,
+    "codnivel5": "NULL",
+    "codclasse": 154,
+    "descclasse": "LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA PELO PROCEDIMENTO COMUM"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 150,
+    "codnivel4": 12088,
+    "codnivel5": "NULL",
+    "codclasse": 12088,
+    "descclasse": "LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA PELO PROCEDIMENTO COMUM"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 150,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 150,
+    "descclasse": "PROCEDIMENTO DE LIQUIDAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 156,
+    "codnivel5": "NULL",
+    "codclasse": 156,
+    "descclasse": "CUMPRIMENTO DE SENTENÇA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 157,
+    "codnivel5": "NULL",
+    "codclasse": 157,
+    "descclasse": "CUMPRIMENTO PROVISÓRIO DE SENTENÇA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 229,
+    "codnivel5": "NULL",
+    "codclasse": 229,
+    "descclasse": "IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 10980,
+    "codnivel5": "NULL",
+    "codclasse": 10980,
+    "descclasse": "CUMPRIMENTO PROVISÓRIO DE DECISÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 10981,
+    "codnivel5": "NULL",
+    "codclasse": 10981,
+    "descclasse": "IMPUGNAÇÃO AO CUMPRIMENTO  DE DECISÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 12078,
+    "codnivel5": "NULL",
+    "codclasse": 12078,
+    "descclasse": "CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 12231,
+    "codnivel5": "NULL",
+    "codclasse": 12231,
+    "descclasse": "CUMPRIMENTO DE SENTENÇA - LEI ARBITRAL (LEI 9.307/1996)"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 12246,
+    "codnivel5": "NULL",
+    "codclasse": 12246,
+    "descclasse": "CUMPRIMENTO DE SENTENÇA DE OBRIGAÇÃO DE PRESTAR ALIMENTOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 15160,
+    "codnivel5": "NULL",
+    "codclasse": 15160,
+    "descclasse": "CUMPRIMENTO DE SENTENÇA DE AÇÕES COLETIVAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 15161,
+    "codnivel5": "NULL",
+    "codclasse": 15161,
+    "descclasse": "CUMPRIMENTO PROVISÓRIO DE SENTENÇA DE AÇÕES COLETIVAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": 15215,
+    "codnivel5": "NULL",
+    "codclasse": 15215,
+    "descclasse": "CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA MEDIANTE EXECUÇÃO INVERTIDA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 155,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 155,
+    "descclasse": "PROCEDIMENTO DE CUMPRIMENTO DE SENTENÇA/DECISÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 7,
+    "codnivel5": "NULL",
+    "codclasse": 7,
+    "descclasse": "PROCEDIMENTO COMUM CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 22,
+    "codnivel5": "NULL",
+    "codclasse": 22,
+    "descclasse": "PROCEDIMENTO SUMÁRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 27,
+    "descclasse": "PROCEDIMENTOS ESPECIAIS DE JURISDIÇÃO CONTENCIOSA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 28,
+    "descclasse": "ANULAÇÃO E SUBSTITUIÇÃO DE TÍTULOS AO PORTADOR"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 29,
+    "descclasse": "APREENSÃO E DEPÓSITO DE COISA VENDIDA COM RESERVA DE DOMÍNIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 30,
+    "descclasse": "ARROLAMENTO COMUM"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 31,
+    "descclasse": "ARROLAMENTO SUMÁRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 32,
+    "descclasse": "CONSIGNAÇÃO EM PAGAMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 34,
+    "descclasse": "DEMARCAÇÃO / DIVISÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 35,
+    "descclasse": "DEPÓSITO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 37,
+    "descclasse": "EMBARGOS DE TERCEIRO CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 38,
+    "descclasse": "HABILITAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 39,
+    "descclasse": "INVENTÁRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 40,
+    "descclasse": "MONITÓRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 41,
+    "descclasse": "NUNCIAÇÃO DE OBRA NOVA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 44,
+    "descclasse": "PRESTAÇÃO DE CONTAS - OFERECIDAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 45,
+    "descclasse": "AÇÃO DE EXIGIR CONTAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 46,
+    "descclasse": "RESTAURAÇÃO DE AUTOS CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 47,
+    "descclasse": "AÇÃO RESCISÓRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 48,
+    "descclasse": "SOBREPARTILHA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 49,
+    "descclasse": "USUCAPIÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 1707,
+    "descclasse": "REINTEGRAÇÃO / MANUTENÇÃO DE POSSE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 1709,
+    "descclasse": "INTERDITO PROIBITÓRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 12086,
+    "descclasse": "DISSOLUÇÃO PARCIAL DE SOCIEDADE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 12375,
+    "descclasse": "RECLAMAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 12376,
+    "descclasse": "REGULAÇÃO DE AVARIA GROSSA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 12541,
+    "descclasse": "DIVÓRCIO LITIGIOSO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 12761,
+    "descclasse": "HOMOLOGAÇÃO DO PENHOR LEGAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 12763,
+    "descclasse": "RECONHECIMENTO E EXTINÇÃO DE UNIÃO ESTÁVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 12764,
+    "descclasse": "SEPARAÇÃO CONTENCIOSA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 27,
+    "codclasse": 14677,
+    "descclasse": "REGULAMENTAÇÃO DA CONVIVÊNCIA FAMILIAR"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 50,
+    "descclasse": "PROCEDIMENTOS ESPECIAIS DE JURISDIÇÃO VOLUNTÁRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 51,
+    "descclasse": "ABERTURA, REGISTRO E CUMPRIMENTO DE TESTAMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 52,
+    "descclasse": "ALIENAÇÃO JUDICIAL DE BENS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 53,
+    "descclasse": "ARRECADAÇÃO DAS COISAS VAGAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 54,
+    "descclasse": "CONFIRMAÇÃO DE TESTAMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 55,
+    "descclasse": "DECLARAÇÃO DE AUSÊNCIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 56,
+    "descclasse": "ESPECIALIZAÇÃO DE HIPOTECA LEGAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 57,
+    "descclasse": "HERANÇA JACENTE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 58,
+    "descclasse": "INTERDIÇÃO/CURATELA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 59,
+    "descclasse": "ORGANIZAÇÃO E FISCALIZAÇÃO DE FUNDAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 60,
+    "descclasse": "SEPARAÇÃO CONSENSUAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 61,
+    "descclasse": "TUTELA E CURATELA -  NOMEAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 1122,
+    "descclasse": "TUTELA E CURATELA - REMOÇÃO E DISPENSA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 1294,
+    "descclasse": "OUTROS PROCEDIMENTOS DE JURISDIÇÃO VOLUNTÁRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 1295,
+    "descclasse": "ALVARÁ JUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12226,
+    "descclasse": "NOTIFICAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12227,
+    "descclasse": "INTERPELAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12228,
+    "descclasse": "PROTESTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12229,
+    "descclasse": "PROTESTO FORMADO A BORDO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12233,
+    "descclasse": "TUTELA CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12234,
+    "descclasse": "CURATELA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12369,
+    "descclasse": "TOMADA DE DECISÃO APOIADA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12371,
+    "descclasse": "ALTERAÇÃO DE REGIME DE BENS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12372,
+    "descclasse": "DIVÓRCIO CONSENSUAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12373,
+    "descclasse": "DIVÓRCIO LITIGIOSO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12374,
+    "descclasse": "HOMOLOGAÇÃO DA TRANSAÇÃO EXTRAJUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 50,
+    "codclasse": 12762,
+    "descclasse": "EXTINÇÃO CONSENSUAL DE UNIÃO ESTÁVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 62,
+    "descclasse": "PROCEDIMENTOS REGIDOS POR OUTROS CÓDIGOS, LEIS ESPARSAS E REGIMENTOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 63,
+    "descclasse": "AÇÃO CIVIL COLETIVA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 64,
+    "descclasse": "AÇÃO CIVIL DE IMPROBIDADE ADMINISTRATIVA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 65,
+    "descclasse": "AÇÃO CIVIL PÚBLICA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 66,
+    "descclasse": "AÇÃO POPULAR"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 69,
+    "descclasse": "ALIMENTOS - LEI ESPECIAL Nº 5.478/68"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 72,
+    "descclasse": "ALTERAÇÃO DO REGIME DE BENS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 74,
+    "descclasse": "ALVARÁ JUDICIAL - LEI 6858/80"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 76,
+    "descclasse": "APREENSÃO DE EMBARCAÇÕES"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 77,
+    "descclasse": "ARRIBADAS FORÇADAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 79,
+    "descclasse": "REGULAÇÃO DE AVARIA GROSSA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 80,
+    "descclasse": "AVARIAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 81,
+    "descclasse": "BUSCA E APREENSÃO EM ALIENAÇÃO FIDUCIÁRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 82,
+    "descclasse": "CANCELAMENTO DE NATURALIZAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 84,
+    "descclasse": "COBRANÇA DE CÉDULA DE CRÉDITO INDUSTRIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 85,
+    "descclasse": "COMPROMISSO ARBITRAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 86,
+    "descclasse": "CONSIGNATÓRIA DE ALUGUÉIS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 87,
+    "descclasse": "CONVERSÃO DE SEPARAÇÃO JUDICIAL EM DIVÓRCIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 89,
+    "descclasse": "DEPÓSITO DA LEI 8. 866/94"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 90,
+    "descclasse": "DESAPROPRIAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 91,
+    "descclasse": "DESAPROPRIAÇÃO IMÓVEL RURAL POR INTERESSE SOCIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 92,
+    "descclasse": "DESPEJO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 93,
+    "descclasse": "DESPEJO POR FALTA DE PAGAMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 94,
+    "descclasse": "DESPEJO POR FALTA DE PAGAMENTO CUMULADO COM COBRANÇA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 95,
+    "descclasse": "DIRETA DE INCONSTITUCIONALIDADE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 96,
+    "descclasse": "DISCRIMINATÓRIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 97,
+    "descclasse": "DISSOLUÇÃO E LIQUIDAÇÃO DE SOCIEDADE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 98,
+    "descclasse": "DIVÓRCIO CONSENSUAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 99,
+    "descclasse": "DIVÓRCIO LITIGIOSO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 100,
+    "descclasse": "DÚVIDA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 107,
+    "descclasse": "EXPROPRIAÇÃO DA LEI 8.257/91"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 108,
+    "descclasse": "FALÊNCIA DE EMPRESÁRIOS, SOCIEDADES EMPRESÁRIAIS, MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 110,
+    "descclasse": "HABEAS DATA CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 111,
+    "descclasse": "HABILITAÇÃO DE CRÉDITO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 112,
+    "descclasse": "HOMOLOGAÇÃO DE TRANSAÇÃO EXTRAJUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 113,
+    "descclasse": "IMISSÃO NA POSSE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 114,
+    "descclasse": "IMPUGNAÇÃO DE CRÉDITO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 115,
+    "descclasse": "INQUÉRITO EXTRAJUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 118,
+    "descclasse": "MANDADO DE INJUNÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 119,
+    "descclasse": "MANDADO DE SEGURANÇA COLETIVO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 120,
+    "descclasse": "MANDADO DE SEGURANÇA CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 121,
+    "descclasse": "NATURALIZAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 122,
+    "descclasse": "OPÇÃO DE NACIONALIDADE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 123,
+    "descclasse": "AVERIGUAÇÃO DE PATERNIDADE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 124,
+    "descclasse": "PEDIDO DE RESPOSTA OU RETIFICAÇÃO DA LEI DE IMPRENSA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 127,
+    "descclasse": "PROTESTO FORMADO A BORDO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 128,
+    "descclasse": "RECUPERAÇÃO EXTRAJUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 129,
+    "descclasse": "RECUPERAÇÃO JUDICIAL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 134,
+    "descclasse": "REGISTRO TORRENS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 135,
+    "descclasse": "RELATÓRIO FALIMENTAR"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 136,
+    "descclasse": "REMIÇÃO DO IMÓVEL HIPOTECADO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 137,
+    "descclasse": "RENOVATÓRIA DE LOCAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 138,
+    "descclasse": "RESTITUIÇÃO DE COISA OU DINHEIRO NA FALÊNCIA DO DEVEDOR EMPRESÁRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 140,
+    "descclasse": "REVISIONAL DE ALUGUEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 141,
+    "descclasse": "SEPARAÇÃO LITIGIOSA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 142,
+    "descclasse": "SONEGADOS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 143,
+    "descclasse": "SUPRIMENTO DE IDADE E/OU CONSENTIMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 144,
+    "descclasse": "SUSPENSÃO DE LIMINAR OU ANTECIPAÇÃO DE TUTELA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 145,
+    "descclasse": "SUSPENSÃO DE EXECUÇÃO DE SENTENÇA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 244,
+    "descclasse": "RECLAMAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 1124,
+    "descclasse": "JUSTIFICAÇÃO DE DINHEIRO A RISCO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 1269,
+    "descclasse": "HABEAS CORPUS CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 1296,
+    "descclasse": "DECLARATÓRIA DE CONSTITUCIONALIDADE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 1297,
+    "descclasse": "INTERVENÇÃO EM MUNICÍPIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 1682,
+    "descclasse": "RETIFICAÇÃO OU SUPRIMENTO OU RESTAURAÇÃO DE REGISTRO CIVIL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 1683,
+    "descclasse": "RETIFICAÇÃO DE REGISTRO DE IMÓVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 11397,
+    "descclasse": "EXTINÇÃO DAS OBRIGAÇÕES DO FALIDO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 11555,
+    "descclasse": "SUSPENSÃO DE LIMINAR E DE SENTENÇA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 11556,
+    "descclasse": "SUSPENSÃO DE SEGURANÇA CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 12138,
+    "descclasse": "REQUERIMENTO DE REINTEGRAÇÃO DE POSSE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 12370,
+    "descclasse": "TOMADA DE DECISÃO APOIADA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 12389,
+    "descclasse": "AÇÃO DE PARTILHA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 12390,
+    "descclasse": "AÇÃO DE PARTILHA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 14671,
+    "descclasse": "GUARDA DE FAMÍLIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 14990,
+    "descclasse": "CLASSIFICAÇÃO DE CRÉDITO PÚBLICO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 15159,
+    "descclasse": "REGIME CENTRALIZADO DE EXECUÇÕES"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": 62,
+    "codclasse": 15217,
+    "descclasse": "PROCEDIMENTO DE REPACTUAÇÃO DE DÍVIDAS (SUPERENDIVIDAMENTO)"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 26,
+    "codnivel5": "NULL",
+    "codclasse": 26,
+    "descclasse": "PROCEDIMENTOS ESPECIAIS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 436,
+    "codnivel5": "NULL",
+    "codclasse": 436,
+    "descclasse": "PROCEDIMENTO DO JUIZADO ESPECIAL CÍVEL"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 1067,
+    "codnivel5": 976,
+    "codclasse": 976,
+    "descclasse": "AÇÃO ANULATÓRIA DE CLÁUSULAS CONVENCIONAIS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 1067,
+    "codnivel5": 980,
+    "codclasse": 980,
+    "descclasse": "AÇÃO DE CUMPRIMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 1067,
+    "codnivel5": 985,
+    "codclasse": 985,
+    "descclasse": "AÇÃO TRABALHISTA - RITO ORDINÁRIO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 1067,
+    "codnivel5": 986,
+    "codclasse": 986,
+    "descclasse": "INQUÉRITO PARA APURAÇÃO DE FALTA GRAVE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 1067,
+    "codnivel5": 987,
+    "codclasse": 987,
+    "descclasse": "DISSÍDIO COLETIVO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 1067,
+    "codnivel5": 988,
+    "codclasse": 988,
+    "descclasse": "DISSÍDIO COLETIVO DE GREVE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 1067,
+    "codnivel5": 1125,
+    "codclasse": 1125,
+    "descclasse": "AÇÃO TRABALHISTA - RITO SUMARÍSSIMO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 1067,
+    "codnivel5": 1126,
+    "codclasse": 1126,
+    "descclasse": "AÇÃO TRABALHISTA - RITO SUMÁRIO (ALÇADA)"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 1067,
+    "codnivel5": 1202,
+    "codclasse": 1202,
+    "descclasse": "RECLAMAÇÃO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 1067,
+    "codnivel5": "NULL",
+    "codclasse": 1067,
+    "descclasse": "PROCEDIMENTOS TRABALHISTAS"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": 14695,
+    "codnivel5": "NULL",
+    "codclasse": 14695,
+    "descclasse": "PROCEDIMENTO DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": 1107,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1107,
+    "descclasse": "PROCEDIMENTO DE CONHECIMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 1106,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1106,
+    "descclasse": "PROCESSO DE CONHECIMENTO"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 12133,
+    "codnivel3": 12134,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12134,
+    "descclasse": "TUTELA CAUTELAR ANTECEDENTE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 12133,
+    "codnivel3": 12135,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12135,
+    "descclasse": "TUTELA ANTECIPADA ANTECEDENTE"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": 12133,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12133,
+    "descclasse": "TUTELA PROVISÓRIA DE URGÊNCIA E TUTELA PROVISÓRIA DE EVIDÊNCIA"
+  },
+  {
+    "codnivel1": 2,
+    "codnivel2": "NULL",
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 2,
+    "descclasse": "PROCESSO CÍVEL E DO TRABALHO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1013,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1013,
+    "descclasse": "AGRAVO EM RECURSO DE HABEAS CORPUS"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1015,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1015,
+    "descclasse": "EMBARGOS DE DIVERGÊNCIA EM RECURSO DE MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1016,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1016,
+    "descclasse": "EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1017,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1017,
+    "descclasse": "EMBARGOS À EXECUÇÃO EM MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1018,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1018,
+    "descclasse": "EMBARGOS À EXECUÇÃO EM AÇÃO RECISORIA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1019,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1019,
+    "descclasse": "EMBARGOS À EXECUÇÃO EM MEDIDA CAUTELAR"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1020,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1020,
+    "descclasse": "EXECUÇÃO EM AÇÃO RESCISÓRIA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1021,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1021,
+    "descclasse": "EXECUÇÃO EM SENTENÇA ESTRANGEIRA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1022,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1022,
+    "descclasse": "EXECUÇÃO EM SENTENÇA ESTRANGEIRA CONTESTADA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1023,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1023,
+    "descclasse": "EXECUÇÃO EM MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1024,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1024,
+    "descclasse": "EXECUÇÃO EM MEDIDA CAUTELAR"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1025,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1025,
+    "descclasse": "INCIDENTE DE DESLOCAMENTO DE COMPETÊNCIA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1026,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1026,
+    "descclasse": "HOMOLOGAÇÃO DE DECISÃO ESTRANGEIRA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1027,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1027,
+    "descclasse": "SENTENÇA ESTRANGEIRA CONTESTADA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1028,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1028,
+    "descclasse": "SINDICÂNCIA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1029,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1029,
+    "descclasse": "MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1030,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1030,
+    "descclasse": "RECLAMAÇÃO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1031,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1031,
+    "descclasse": "RECURSO ORDINÁRIO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1032,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1032,
+    "descclasse": "RECURSO ESPECIAL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1033,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1033,
+    "descclasse": "AÇÃO PENAL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1034,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1034,
+    "descclasse": "INTERPELAÇÃO JUDICIAL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1035,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1035,
+    "descclasse": "APELAÇÃO CÍVEL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1036,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1036,
+    "descclasse": "SUSPENSÃO DE LIMINAR E DE SENTENÇA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1037,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1037,
+    "descclasse": "EMBARGOS INFRINGENTES EM APELAÇÃO CÍVEL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1038,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1038,
+    "descclasse": "REPRESENTAÇÃO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1040,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1040,
+    "descclasse": "REQUISIÇÃO DE PEQUENO VALOR"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1042,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1042,
+    "descclasse": "INQUÉRITO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1044,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1044,
+    "descclasse": "AGRAVO DE INSTRUMENTO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1045,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1045,
+    "descclasse": "AGRAVO EM RECURSO EXTRAORDINÁRIO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1046,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1046,
+    "descclasse": "AGRAVO EM RECURSO DE MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1047,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1047,
+    "descclasse": "CARTA ROGATÓRIA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1049,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1049,
+    "descclasse": "HABEAS DATA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1053,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1053,
+    "descclasse": "CONFLITO DE ATRIBUIÇÃO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1054,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1054,
+    "descclasse": "CONFLITO DE COMPETÊNCIA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1057,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1057,
+    "descclasse": "PETIÇÃO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1062,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1062,
+    "descclasse": "MEDIDA CAUTELAR"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1063,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1063,
+    "descclasse": "EXCEÇÃO DA VERDADE"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1064,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1064,
+    "descclasse": "REMESSA NECESSÁRIA EM HABEAS CORPUS"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1066,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1066,
+    "descclasse": "EMBARGOS INFRINGENTES EM AÇÃO RESCISÓRIA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1137,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1137,
+    "descclasse": "EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1669,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1669,
+    "descclasse": "AÇÃO RESCISÓRIA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1670,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1670,
+    "descclasse": "AÇÃO DE IMPROBIDADE ADMINISTRATIVA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1671,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1671,
+    "descclasse": "COMUNICAÇÃO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1672,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1672,
+    "descclasse": "EXCEÇÃO DE IMPEDIMENTO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1673,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1673,
+    "descclasse": "EXCEÇÃO DE SUSPEIÇÃO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1674,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1674,
+    "descclasse": "INTERVENÇÃO FEDERAL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1675,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1675,
+    "descclasse": "MANDADO DE INJUNÇÃO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1677,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1677,
+    "descclasse": "PRECATÓRIO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1678,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1678,
+    "descclasse": "REVISÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1679,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1679,
+    "descclasse": "SUSPENSÃO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1720,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1720,
+    "descclasse": "HABEAS CORPUS"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1721,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1721,
+    "descclasse": "RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 1722,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1722,
+    "descclasse": "RECURSO ORDINÁRIO EM HABEAS CORPUS"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 11881,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11881,
+    "descclasse": "AGRAVO EM RECURSO ESPECIAL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 11956,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11956,
+    "descclasse": "EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 12118,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12118,
+    "descclasse": "SUSPENSÃO EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 12250,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12250,
+    "descclasse": "SUSPENSÃO EM IRDR"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 15224,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15224,
+    "descclasse": "HABEAS CORPUS COLETIVO"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": 15228,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15228,
+    "descclasse": "QUEIXA-CRIME"
+  },
+  {
+    "codnivel1": 5,
+    "codnivel2": "NULL",
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 5,
+    "descclasse": "SUPERIOR TRIBUNAL DE JUSTIÇA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 269,
+    "codnivel3": 270,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 270,
+    "descclasse": "NOTÍCIA-CRIME"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 269,
+    "codnivel3": 274,
+    "codnivel4": 275,
+    "codnivel5": "NULL",
+    "codclasse": 275,
+    "descclasse": "NOTIFICAÇÃO PARA EXPLICAÇÕES"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 269,
+    "codnivel3": 274,
+    "codnivel4": 276,
+    "codnivel5": "NULL",
+    "codclasse": 276,
+    "descclasse": "NOTIFICAÇÃO PARA EXPLICAÇÕES (LEI DE IMPRENSA)"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 269,
+    "codnivel3": 274,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 274,
+    "descclasse": "INTERPELAÇÕES"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 269,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 269,
+    "descclasse": "MEDIDAS PREPARATÓRIAS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 277,
+    "codnivel3": 271,
+    "codnivel4": 272,
+    "codnivel5": "NULL",
+    "codclasse": 272,
+    "descclasse": "REPRESENTAÇÃO CRIMINAL/NOTÍCIA DE CRIME"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 277,
+    "codnivel3": 271,
+    "codnivel4": 273,
+    "codnivel5": "NULL",
+    "codclasse": 273,
+    "descclasse": "PEDIDO DE ARQUIVAMENTO EM REPRESENTAÇÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 277,
+    "codnivel3": 271,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 271,
+    "descclasse": "REPRESENTAÇÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 277,
+    "codnivel3": 278,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 278,
+    "descclasse": "TERMO CIRCUNSTANCIADO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 277,
+    "codnivel3": 279,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 279,
+    "descclasse": "INQUÉRITO POLICIAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 277,
+    "codnivel3": 280,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 280,
+    "descclasse": "AUTO DE PRISÃO EM FLAGRANTE"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 277,
+    "codnivel3": 1731,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1731,
+    "descclasse": "INVESTIGAÇÃO CONTRA MAGISTRADO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 277,
+    "codnivel3": 1733,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1733,
+    "descclasse": "PROCEDIMENTO INVESTIGATÓRIO CRIMINAL (PIC-MP)"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 277,
+    "codnivel3": 12121,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12121,
+    "descclasse": "COMUNICADO DE MANDADO DE PRISÃO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 277,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 277,
+    "descclasse": "PROCEDIMENTOS INVESTIGATÓRIOS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 281,
+    "codnivel3": 282,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 282,
+    "descclasse": "AÇÃO PENAL DE COMPETÊNCIA DO JÚRI"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 281,
+    "codnivel3": 283,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 283,
+    "descclasse": "AÇÃO PENAL - PROCEDIMENTO ORDINÁRIO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 281,
+    "codnivel3": 10943,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 10943,
+    "descclasse": "AÇÃO PENAL - PROCEDIMENTO SUMÁRIO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 281,
+    "codnivel3": 10944,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 10944,
+    "descclasse": "AÇÃO PENAL - PROCEDIMENTO SUMARÍSSIMO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 281,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 281,
+    "descclasse": "PROCEDIMENTO COMUM"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 285,
+    "codnivel4": 287,
+    "codnivel5": "NULL",
+    "codclasse": 287,
+    "descclasse": "CRIMES DE RESPONSABILIDADE DOS FUNCIONÁRIOS PÚBLICOS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 285,
+    "codnivel4": 288,
+    "codnivel5": "NULL",
+    "codclasse": 288,
+    "descclasse": "CRIMES DE CALÚNIA, INJÚRIA E DIFAMAÇÃO DE COMPETÊNCIA DO JUIZ SINGULAR"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 285,
+    "codnivel4": 289,
+    "codnivel5": "NULL",
+    "codclasse": 289,
+    "descclasse": "CRIMES CONTRA A PROPRIEDADE IMATERIAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 285,
+    "codnivel4": 290,
+    "codnivel5": "NULL",
+    "codclasse": 290,
+    "descclasse": "PROCESSO SUMÁRIO (DETENÇÃO)"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 285,
+    "codnivel4": 291,
+    "codnivel5": "NULL",
+    "codclasse": 291,
+    "descclasse": "RESTAURAÇÃO DE AUTOS CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 285,
+    "codnivel4": 11798,
+    "codnivel5": "NULL",
+    "codclasse": 11798,
+    "descclasse": "PROCESSO DE APLICAÇÃO DE MEDIDA DE SEGURANÇA POR FATO NÃO CRIMINOSO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 285,
+    "codnivel4": 12394,
+    "codnivel5": "NULL",
+    "codclasse": 12394,
+    "descclasse": "REVISÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 285,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 285,
+    "descclasse": "PROCESSO ESPECIAL DO CÓDIGO DE PROCESSO PENAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": 293,
+    "codnivel5": "NULL",
+    "codclasse": 293,
+    "descclasse": "CRIMES AMBIENTAIS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": 294,
+    "codnivel5": "NULL",
+    "codclasse": 294,
+    "descclasse": "CRIMES CONTRA A PROPRIEDADE INDUSTRIAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": 295,
+    "codnivel5": "NULL",
+    "codclasse": 295,
+    "descclasse": "CRIMES CONTRA A PROPRIEDADE INTELECTUAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": 297,
+    "codnivel5": "NULL",
+    "codclasse": 297,
+    "descclasse": "CRIMES DE IMPRENSA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": 299,
+    "codnivel5": "NULL",
+    "codclasse": 299,
+    "descclasse": "PROCEDIMENTO DO JUIZADO ESPECIAL CRIMINAL - SUMARIÍSSIMO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": 300,
+    "codnivel5": "NULL",
+    "codclasse": 300,
+    "descclasse": "PROCEDIMENTO ESPECIAL DA LEI ANTITÓXICOS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": 302,
+    "codnivel5": "NULL",
+    "codclasse": 302,
+    "descclasse": "PROCEDIMENTO ESPECIAL DOS CRIMES DE ABUSO DE AUTORIDADE"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": 1710,
+    "codnivel5": "NULL",
+    "codclasse": 1710,
+    "descclasse": "MANDADO DE SEGURANÇA CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": 12122,
+    "codnivel5": "NULL",
+    "codclasse": 12122,
+    "descclasse": "RECLAMAÇÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": 14701,
+    "codnivel5": "NULL",
+    "codclasse": 14701,
+    "descclasse": "HABEAS DATA CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": 292,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 292,
+    "descclasse": "PROCESSO ESPECIAL DE LEIS ESPARSAS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 284,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 284,
+    "descclasse": "PROCESSO ESPECIAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 303,
+    "codnivel3": 304,
+    "codnivel4": 305,
+    "codnivel5": "NULL",
+    "codclasse": 305,
+    "descclasse": "LIBERDADE PROVISÓRIA COM OU SEM FIANÇA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 303,
+    "codnivel3": 304,
+    "codnivel4": 306,
+    "codnivel5": "NULL",
+    "codclasse": 306,
+    "descclasse": "RELAXAMENTO DE PRISÃO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 303,
+    "codnivel3": 304,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 304,
+    "descclasse": "LIBERDADE"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 303,
+    "codnivel3": 307,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 307,
+    "descclasse": "HABEAS CORPUS CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 303,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 303,
+    "descclasse": "MEDIDAS GARANTIDORAS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 309,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 309,
+    "descclasse": "PEDIDO DE BUSCA E APREENSÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 310,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 310,
+    "descclasse": "PEDIDO DE QUEBRA DE SIGILO DE DADOS E/OU TELEFÔNICO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 311,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 311,
+    "descclasse": "MEDIDAS INVESTIGATÓRIAS SOBRE ORGANIZAÇÕES CRIMINOSAS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 312,
+    "codnivel4": 313,
+    "codnivel5": "NULL",
+    "codclasse": 313,
+    "descclasse": "PEDIDO DE PRISÃO PREVENTIVA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 312,
+    "codnivel4": 314,
+    "codnivel5": "NULL",
+    "codclasse": 314,
+    "descclasse": "PEDIDO DE PRISÃO TEMPORÁRIA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 312,
+    "codnivel4": 315,
+    "codnivel5": "NULL",
+    "codclasse": 315,
+    "descclasse": "PEDIDO DE PRISÃO/ LIBERDADE VIGIADA PARA FINS DE EXPULSÃO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 312,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 312,
+    "descclasse": "PEDIDO DE PRISÃO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 1268,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1268,
+    "descclasse": "MEDIDAS PROTETIVAS DE URGÊNCIA (LEI MARIA DA PENHA)  - CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 10967,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 10967,
+    "descclasse": "MEDIDAS DE PROTEÇÃO À PESSOA IDOSA - CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 11793,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11793,
+    "descclasse": "PRODUÇÃO ANTECIPADA DE PROVAS CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 11955,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11955,
+    "descclasse": "CAUTELAR INOMINADA CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 14734,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 14734,
+    "descclasse": "MEDIDAS DE PROTEÇÃO - CRIANÇA E ADOLESCENTE (LEI 13.431) CRIMINAIS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": 15170,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15170,
+    "descclasse": "MEDIDAS PROTETIVAS DE URGÊNCIA - CRIANÇAS E ADOLESCENTES (LEI HENRY BOREL - LEI 14.344/2022) CRIMINAIS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 308,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 308,
+    "descclasse": "MEDIDAS CAUTELARES"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 317,
+    "codnivel4": 318,
+    "codnivel5": "NULL",
+    "codclasse": 318,
+    "descclasse": "EXCEÇÃO DE SUSPEIÇÃO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 317,
+    "codnivel4": 319,
+    "codnivel5": "NULL",
+    "codclasse": 319,
+    "descclasse": "EXCEÇÃO DE INCOMPETÊNCIA DE JUÍZO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 317,
+    "codnivel4": 320,
+    "codnivel5": "NULL",
+    "codclasse": 320,
+    "descclasse": "EXCEÇÃO DE LITISPENDÊNCIA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 317,
+    "codnivel4": 321,
+    "codnivel5": "NULL",
+    "codclasse": 321,
+    "descclasse": "EXCEÇÃO DE ILEGITIMIDADE DE PARTE"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 317,
+    "codnivel4": 322,
+    "codnivel5": "NULL",
+    "codclasse": 322,
+    "descclasse": "EXCEÇÃO DE COISA JULGADA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 317,
+    "codnivel4": 323,
+    "codnivel5": "NULL",
+    "codclasse": 323,
+    "descclasse": "EXCEÇÃO DE IMPEDIMENTO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 317,
+    "codnivel4": 324,
+    "codnivel5": "NULL",
+    "codclasse": 324,
+    "descclasse": "EXCEÇÃO DA VERDADE"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 317,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 317,
+    "descclasse": "EXCEÇÕES"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 326,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 326,
+    "descclasse": "RESTITUIÇÃO DE COISAS APREENDIDAS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 327,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 327,
+    "descclasse": "EMBARGOS DE TERCEIRO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 328,
+    "codnivel4": 329,
+    "codnivel5": "NULL",
+    "codclasse": 329,
+    "descclasse": "SEQÜESTRO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 328,
+    "codnivel4": 330,
+    "codnivel5": "NULL",
+    "codclasse": 330,
+    "descclasse": "ARRESTO / HIPOTECA LEGAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 328,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 328,
+    "descclasse": "MEDIDAS ASSECURATÓRIAS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 325,
+    "codnivel5": "NULL",
+    "codclasse": 325,
+    "descclasse": "CONFLITO DE JURISDIÇÃO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 332,
+    "codnivel5": "NULL",
+    "codclasse": 332,
+    "descclasse": "INCIDENTE DE FALSIDADE"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 333,
+    "codnivel5": "NULL",
+    "codclasse": 333,
+    "descclasse": "INSANIDADE MENTAL DO ACUSADO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 432,
+    "codnivel5": "NULL",
+    "codclasse": 432,
+    "descclasse": "DESAFORAMENTO DE JULGAMENTO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 433,
+    "codnivel5": "NULL",
+    "codclasse": 433,
+    "descclasse": "INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 1178,
+    "codnivel5": "NULL",
+    "codclasse": 1178,
+    "descclasse": "INCIDENTE DE ARGUIÇÃO DE INCONSTITUCIONALIDADE CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 1291,
+    "codnivel5": "NULL",
+    "codclasse": 1291,
+    "descclasse": "REABILITAÇÃO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 1719,
+    "codnivel5": "NULL",
+    "codclasse": 1719,
+    "descclasse": "AVALIAÇÃO PARA ATESTAR DEPENDÊNCIA DE DROGAS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 11787,
+    "codnivel5": "NULL",
+    "codclasse": 11787,
+    "descclasse": "ASSISTÊNCIA JUDICIÁRIA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 11788,
+    "codnivel5": "NULL",
+    "codclasse": 11788,
+    "descclasse": "EXIBIÇÃO DE DOCUMENTO OU COISA CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 11789,
+    "codnivel5": "NULL",
+    "codclasse": 11789,
+    "descclasse": "IMPUGNAÇÃO AO VALOR DA CAUSA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 11790,
+    "codnivel5": "NULL",
+    "codclasse": 11790,
+    "descclasse": "IMPUGNAÇÃO DE ASSISTÊNCIA JUDICIÁRIA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 11791,
+    "codnivel5": "NULL",
+    "codclasse": 11791,
+    "descclasse": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 12077,
+    "codnivel5": "NULL",
+    "codclasse": 12077,
+    "descclasse": "HOMOLOGAÇÃO EM ACORDO DE COLABORAÇÃO PREMIADA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": 14678,
+    "codnivel5": "NULL",
+    "codclasse": 14678,
+    "descclasse": "ACORDO DE NÃO PERSECUÇÃO PENAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 331,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 331,
+    "descclasse": "INCIDENTES"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 1715,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1715,
+    "descclasse": "EMBARGOS DO ACUSADO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 1717,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1717,
+    "descclasse": "ALIENAÇÃO DE BENS DO ACUSADO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": 14123,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 14123,
+    "descclasse": "DESTINAÇÃO DE BENS APREENDIDOS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 316,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 316,
+    "descclasse": "QUESTÕES E PROCESSOS INCIDENTES"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 334,
+    "codnivel3": 335,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 335,
+    "descclasse": "CARTA DE ORDEM CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 334,
+    "codnivel3": 355,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 355,
+    "descclasse": "CARTA PRECATÓRIA CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 334,
+    "codnivel3": 375,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 375,
+    "descclasse": "CARTA ROGATÓRIA CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 334,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 334,
+    "descclasse": "CARTAS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 413,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 413,
+    "descclasse": "AGRAVO DE EXECUÇÃO PENAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 416,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 416,
+    "descclasse": "APELAÇÃO EM MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 417,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 417,
+    "descclasse": "APELAÇÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 418,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 418,
+    "descclasse": "CARTA TESTEMUNHÁVEL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 419,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 419,
+    "descclasse": "CORREIÇÃO PARCIAL CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 420,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 420,
+    "descclasse": "EMBARGOS DE DECLARAÇÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 421,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 421,
+    "descclasse": "EMBARGOS INFRINGENTES E DE NULIDADE"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 422,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 422,
+    "descclasse": "PROTESTO POR NOVO JÚRI"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 424,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 424,
+    "descclasse": "RECURSO DE MEDIDA CAUTELAR CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 425,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 425,
+    "descclasse": "RECURSO DE SENTENÇA CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 426,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 426,
+    "descclasse": "RECURSO EM SENTIDO ESTRITO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 427,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 427,
+    "descclasse": "REMESSA NECESSÁRIA CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 428,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 428,
+    "descclasse": "REVISÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 1711,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1711,
+    "descclasse": "AGRAVO DE INSTRUMENTO EM RECURSO ESPECIAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 1712,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1712,
+    "descclasse": "AGRAVO DE INSTRUMENTO EM RECURSO EXTRAORDINÁRIO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 1729,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1729,
+    "descclasse": "AGRAVO INTERNO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 1730,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1730,
+    "descclasse": "RECURSO ORDINÁRIO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": 11398,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11398,
+    "descclasse": "RECURSO EM SENTIDO ESTRITO/RECURSO EX OFFICIO"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 412,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 412,
+    "descclasse": "RECURSOS"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": 1727,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1727,
+    "descclasse": "PETIÇÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 268,
+    "codnivel2": "NULL",
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 268,
+    "descclasse": "PROCESSO CRIMINAL"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 386,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 386,
+    "descclasse": "EXECUÇÃO DA PENA"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 407,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 407,
+    "descclasse": "CONVERSÃO DE PENA"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 408,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 408,
+    "descclasse": "EXCESSO OU DESVIO"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 409,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 409,
+    "descclasse": "ANISTIA"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 410,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 410,
+    "descclasse": "INDULTO"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 411,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 411,
+    "descclasse": "COMUTAÇÃO DE PENA"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 1283,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1283,
+    "descclasse": "SUPERVENIÊNCIA DE DOENÇA MENTAL"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 1284,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1284,
+    "descclasse": "UNIFICAÇÃO DE PENAS"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 1288,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1288,
+    "descclasse": "TRANSFERÊNCIA ENTRE ESTABELECIMENTOS PENAIS"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 11957,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11957,
+    "descclasse": "REMIÇÃO DE PENA"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 12089,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12089,
+    "descclasse": "RENOVAÇÃO DE PERMANÊNCIA EM ESTABELECIMENTO PENAL FEDERAL"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 12123,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12123,
+    "descclasse": "ROTEIRO DE PENA"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 12124,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12124,
+    "descclasse": "ROTEIRO DE PENA"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 12125,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12125,
+    "descclasse": "PROGRESSÃO DE REGIME"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 12126,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12126,
+    "descclasse": "REGRESSÃO DE REGIME"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 12127,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12127,
+    "descclasse": "REMIÇÃO"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 12128,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12128,
+    "descclasse": "LIVRAMENTO CONDICIONAL"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": 12129,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12129,
+    "descclasse": "OUTROS INCIDENTES DE EXECUÇÃO INICIADOS DE OFÍCIO"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 406,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 406,
+    "descclasse": "INCIDENTES"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 1714,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1714,
+    "descclasse": "EXECUÇÃO PROVISÓRIA"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 11399,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11399,
+    "descclasse": "EXECUÇÃO DE MEDIDA DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 12727,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12727,
+    "descclasse": "EXECUÇÃO DE PENA DE MULTA"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 12728,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12728,
+    "descclasse": "TRANSFERÊNCIA ENTRE ESTABELECIMENTOS PENAIS"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 12729,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12729,
+    "descclasse": "EXECUÇÃO DE MEDIDAS ALTERNATIVAS NO JUÍZO COMUM"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": 14696,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 14696,
+    "descclasse": "EXECUÇÃO DE MEDIDAS ALTERNATIVAS NOS JUIZADOS ESPECIAIS"
+  },
+  {
+    "codnivel1": 385,
+    "codnivel2": "NULL",
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 385,
+    "descclasse": "EXECUÇÃO PENAL E DE MEDIDAS ALTERNATIVAS"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1389,
+    "codnivel5": "NULL",
+    "codclasse": 1389,
+    "descclasse": "AÇÃO DE ALIMENTOS DE INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1390,
+    "codnivel5": "NULL",
+    "codclasse": 1390,
+    "descclasse": "REVISÃO JUDICIAL DE DECISÃO DO CONSELHO TUTELAR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1391,
+    "codnivel5": "NULL",
+    "codclasse": 1391,
+    "descclasse": "APURAÇÃO DE IRREGULARIDADES EM ENTIDADES DE ATENDIMENTO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1392,
+    "codnivel5": "NULL",
+    "codclasse": 1392,
+    "descclasse": "APURAÇÃO DE INFRAÇÃO ADMINISTRATIVA ÀS NORMAS DE PROTEÇÃO À CRIANÇA OU ADOLESCENTE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1396,
+    "codnivel5": "NULL",
+    "codclasse": 1396,
+    "descclasse": "TUTELA INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1399,
+    "codnivel5": "NULL",
+    "codclasse": 1399,
+    "descclasse": "TUTELA C/C DESTITUIÇÃO DO PODER FAMILIAR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1401,
+    "codnivel5": 15191,
+    "codclasse": 15191,
+    "descclasse": "ADOÇÃO PELO CADASTRO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1401,
+    "codnivel5": 15192,
+    "codclasse": 15192,
+    "descclasse": "ADOÇÃO FORA DO CADASTRO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1401,
+    "codnivel5": 15193,
+    "codclasse": 15193,
+    "descclasse": "ADOÇÃO FORA DO CADASTRO C/C DESTITUIÇÃO DO PODER FAMILIAR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1401,
+    "codnivel5": "NULL",
+    "codclasse": 1401,
+    "descclasse": "ADOÇÃO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1412,
+    "codnivel5": "NULL",
+    "codclasse": 1412,
+    "descclasse": "ADOÇÃO C/C DESTITUIÇÃO DO PODER FAMILIAR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1414,
+    "codnivel5": "NULL",
+    "codclasse": 1414,
+    "descclasse": "SUPRIMENTO DE CAPACIDADE OU DE CONSENTIMENTO PARA CASAR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1415,
+    "codnivel5": "NULL",
+    "codclasse": 1415,
+    "descclasse": "EMANCIPAÇÃO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1417,
+    "codnivel5": "NULL",
+    "codclasse": 1417,
+    "descclasse": "REGULARIZAÇÃO DE REGISTRO CIVIL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1420,
+    "codnivel5": "NULL",
+    "codclasse": 1420,
+    "descclasse": "GUARDA DE INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1424,
+    "codnivel5": "NULL",
+    "codclasse": 1424,
+    "descclasse": "PROVIDÊNCIA"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1425,
+    "codnivel5": "NULL",
+    "codclasse": 1425,
+    "descclasse": "PRESTAÇÃO DE CONTAS INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1426,
+    "codnivel5": "NULL",
+    "codclasse": 1426,
+    "descclasse": "PERDA OU SUSPENSÃO DO PODER FAMILIAR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1690,
+    "codnivel5": "NULL",
+    "codclasse": 1690,
+    "descclasse": "AÇÃO CIVIL PÚBLICA INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1691,
+    "codnivel5": "NULL",
+    "codclasse": 1691,
+    "descclasse": "MANDADO DE SEGURANÇA INFÂNCIA E JUVENTUDE CÍVEL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1703,
+    "codnivel5": "NULL",
+    "codclasse": 1703,
+    "descclasse": "AUTORIZAÇÃO JUDICIAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1704,
+    "codnivel5": "NULL",
+    "codclasse": 1704,
+    "descclasse": "EMBARGOS DE TERCEIRO INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1705,
+    "codnivel5": "NULL",
+    "codclasse": 1705,
+    "descclasse": "REMOÇÃO, MODIFICAÇÃO  E DISPENSA DE TUTOR OU CURADOR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 1706,
+    "codnivel5": "NULL",
+    "codclasse": 1706,
+    "descclasse": "PROCEDIMENTO COMUM INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 10933,
+    "codnivel5": "NULL",
+    "codclasse": 10933,
+    "descclasse": "HABILITAÇÃO PARA ADOÇÃO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 12070,
+    "codnivel5": "NULL",
+    "codclasse": 12070,
+    "descclasse": "PEDIDO DE MEDIDA DE PROTEÇÃO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 12076,
+    "codnivel5": "NULL",
+    "codclasse": 12076,
+    "descclasse": "RESTABELECIMENTO DO PODER FAMILIAR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 12230,
+    "codnivel5": "NULL",
+    "codclasse": 12230,
+    "descclasse": "GUARDA C/C DESTITUIÇÃO DO PODER FAMILIAR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 15140,
+    "codnivel5": "NULL",
+    "codclasse": 15140,
+    "descclasse": "ENTREGA VOLUNTÁRIA"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 15190,
+    "codnivel5": "NULL",
+    "codclasse": 15190,
+    "descclasse": "DESTITUIÇÃO DO PODER FAMILIAR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": 15194,
+    "codnivel5": "NULL",
+    "codclasse": 15194,
+    "descclasse": "SUSPENSÃO DO PODER FAMILIAR"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1386,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1386,
+    "descclasse": "PROCESSO DE CONHECIMENTO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1430,
+    "codnivel4": 1432,
+    "codnivel5": "NULL",
+    "codclasse": 1432,
+    "descclasse": "EXECUÇÃO DE ALIMENTOS INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1430,
+    "codnivel4": 1434,
+    "codnivel5": "NULL",
+    "codclasse": 1434,
+    "descclasse": "EXECUÇÃO DE MEDIDA DE PROTEÇÃO À CRIANÇA E ADOLESCENTE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1430,
+    "codnivel4": 1435,
+    "codnivel5": "NULL",
+    "codclasse": 1435,
+    "descclasse": "EXECUÇÃO DE MULTA"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1430,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1430,
+    "descclasse": "PROCESSO DE EXECUÇÃO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1436,
+    "codnivel4": 1438,
+    "codnivel5": "NULL",
+    "codclasse": 1438,
+    "descclasse": "BUSCA E APREENSÃO INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1436,
+    "codnivel4": 1440,
+    "codnivel5": "NULL",
+    "codclasse": 1440,
+    "descclasse": "CAUTELAR INOMINADA INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1436,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1436,
+    "descclasse": "PROCESSOS CAUTELARES"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1450,
+    "codnivel4": 1451,
+    "codnivel5": "NULL",
+    "codclasse": 1451,
+    "descclasse": "CARTA DE ORDEM INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1450,
+    "codnivel4": 1455,
+    "codnivel5": "NULL",
+    "codclasse": 1455,
+    "descclasse": "CARTA PRECATÓRIA INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 1450,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1450,
+    "descclasse": "CARTAS"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": 10970,
+    "codnivel5": "NULL",
+    "codclasse": 10970,
+    "descclasse": "CONFLITO DE COMPETÊNCIA INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": 10971,
+    "codnivel5": 10975,
+    "codclasse": 10975,
+    "descclasse": "EXCEÇÃO DE IMPEDIMENTO INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": 10971,
+    "codnivel5": 10976,
+    "codclasse": 10976,
+    "descclasse": "EXCEÇÃO DE INCOMPETÊNCIA INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": 10971,
+    "codnivel5": 10977,
+    "codclasse": 10977,
+    "descclasse": "EXCEÇÃO DE SUSPEIÇÃO INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": 10971,
+    "codnivel5": "NULL",
+    "codclasse": 10971,
+    "descclasse": "EXCEÇÕES"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": 10972,
+    "codnivel5": "NULL",
+    "codclasse": 10972,
+    "descclasse": "EXIBIÇÃO DE DOCUMENTO OU COISA INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": 10973,
+    "codnivel5": "NULL",
+    "codclasse": 10973,
+    "descclasse": "IMPUGNAÇÃO AO VALOR DA CAUSA INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": 10974,
+    "codnivel5": "NULL",
+    "codclasse": 10974,
+    "descclasse": "INCIDENTE DE FALSIDADE INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": 12386,
+    "codnivel5": "NULL",
+    "codclasse": 12386,
+    "descclasse": "INCIDENTE DE IMPEDIMENTO INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": 12388,
+    "codnivel5": "NULL",
+    "codclasse": 12388,
+    "descclasse": "INCIDENTE DE SUSPEIÇÃO INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 10969,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 10969,
+    "descclasse": "INCIDENTES"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": 11026,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11026,
+    "descclasse": "PETIÇÃO INFÂNCIA E JUVENTUDE CÍVEL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1385,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1385,
+    "descclasse": "SEÇÃO CÍVEL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1460,
+    "codnivel4": 1461,
+    "codnivel5": "NULL",
+    "codclasse": 1461,
+    "descclasse": "AUTO DE APREENSÃO EM FLAGRANTE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1460,
+    "codnivel4": 1462,
+    "codnivel5": "NULL",
+    "codclasse": 1462,
+    "descclasse": "RELATÓRIO DE INVESTIGAÇÕES"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1460,
+    "codnivel4": 1463,
+    "codnivel5": "NULL",
+    "codclasse": 1463,
+    "descclasse": "BOLETIM DE OCORRÊNCIA CIRCUNSTANCIADA"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1460,
+    "codnivel4": 11976,
+    "codnivel5": "NULL",
+    "codclasse": 11976,
+    "descclasse": "PEDIDO DE BUSCA E APREENSÃO INFRACIONAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1460,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1460,
+    "descclasse": "PROCEDIMENTOS INVESTIGATÓRIOS"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1464,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1464,
+    "descclasse": "PROCESSO DE APURAÇÃO DE ATO INFRACIONAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1465,
+    "codnivel4": 1466,
+    "codnivel5": "NULL",
+    "codclasse": 1466,
+    "descclasse": "INTERNAÇÃO COM ATIVIDADES EXTERNAS"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1465,
+    "codnivel4": 1467,
+    "codnivel5": "NULL",
+    "codclasse": 1467,
+    "descclasse": "INTERNAÇÃO SEM ATIVIDADES EXTERNAS"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1465,
+    "codnivel4": 1468,
+    "codnivel5": "NULL",
+    "codclasse": 1468,
+    "descclasse": "SEMILIBERDADE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1465,
+    "codnivel4": 1469,
+    "codnivel5": "NULL",
+    "codclasse": 1469,
+    "descclasse": "LIBERDADE ASSISTIDA"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1465,
+    "codnivel4": 1470,
+    "codnivel5": "NULL",
+    "codclasse": 1470,
+    "descclasse": "PRESTAÇÃO DE SERVIÇOS A COMUNIDADE"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1465,
+    "codnivel4": 1471,
+    "codnivel5": "NULL",
+    "codclasse": 1471,
+    "descclasse": "OBRIGAÇÃO DE REPARAR O DANO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1465,
+    "codnivel4": 1472,
+    "codnivel5": "NULL",
+    "codclasse": 1472,
+    "descclasse": "ADVERTÊNCIA"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1465,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1465,
+    "descclasse": "EXECUÇÃO DE MEDIDAS SOCIOEDUCATIVAS"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1473,
+    "codnivel4": 1474,
+    "codnivel5": "NULL",
+    "codclasse": 1474,
+    "descclasse": "CARTA DE ORDEM INFRACIONAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1473,
+    "codnivel4": 1478,
+    "codnivel5": "NULL",
+    "codclasse": 1478,
+    "descclasse": "CARTA PRECATÓRIA INFRACIONAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 1473,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1473,
+    "descclasse": "CARTAS"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 10960,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 10960,
+    "descclasse": "INCIDENTE DE SANIDADE MENTAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 10979,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 10979,
+    "descclasse": "PETIÇÃO INFRACIONAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 11794,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11794,
+    "descclasse": "RESTITUIÇÃO DE COISAS APREENDIDAS INFRACIONAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 12071,
+    "codnivel4": 12072,
+    "codnivel5": "NULL",
+    "codclasse": 12072,
+    "descclasse": "BUSCA E APREENSÃO INFRACIONAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 12071,
+    "codnivel4": 12073,
+    "codnivel5": "NULL",
+    "codclasse": 12073,
+    "descclasse": "INTERNAÇÃO PROVISÓRIA"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 12071,
+    "codnivel4": 12423,
+    "codnivel5": "NULL",
+    "codclasse": 12423,
+    "descclasse": "MEDIDAS PROTETIVAS DE URGÊNCIA (LEI MARIA DA PENHA) - INFRACIONAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 12071,
+    "codnivel4": 12424,
+    "codnivel5": "NULL",
+    "codclasse": 12424,
+    "descclasse": "MEDIDAS DE PROTEÇÃO À PESSOA IDOSA - INFRACIONAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 12071,
+    "codnivel4": 15171,
+    "codnivel5": "NULL",
+    "codclasse": 15171,
+    "descclasse": "MEDIDAS PROTETIVAS DE URGÊNCIA - CRIANÇAS E ADOLESCENTES (LEI HENRY BOREL - LEI 14.344/2022) INFRACIONAIS"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 12071,
+    "codnivel4": 15172,
+    "codnivel5": "NULL",
+    "codclasse": 15172,
+    "descclasse": "MEDIDAS DE PROTEÇÃO - CRIANÇA E ADOLESCENTE (LEI 13.431) INFRACIONAIS"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 12071,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12071,
+    "descclasse": "PROCEDIMENTOS CAUTELARES"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 12074,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12074,
+    "descclasse": "PEDIDO DE DESINTERNAÇÃO/REAVALIAÇÃO/SUBSTITUIÇÃO/SUSPENSÃO DA MEDIDA"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": 12120,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12120,
+    "descclasse": "AGRAVO EM EXECUÇÃO DE MEDIDAS SÓCIO-EDUCATIVAS"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 1459,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1459,
+    "descclasse": "SEÇÃO INFRACIONAL"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 15195,
+    "codnivel3": 14676,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 14676,
+    "descclasse": "PEDIDO DE INCLUSÃO NO CADASTRO DE PROGRAMA DE APADRINHAMENTO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 15195,
+    "codnivel3": 15196,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15196,
+    "descclasse": "INSPEÇÃO"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": 15195,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15195,
+    "descclasse": "SEÇÃO ADMINISTRATIVA"
+  },
+  {
+    "codnivel1": 547,
+    "codnivel2": "NULL",
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 547,
+    "descclasse": "PROCEDIMENTOS DE INFÂNCIA E JUVENTUDE"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 88,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 88,
+    "descclasse": "CORREIÇÃO PARCIAL OU RECLAMAÇÃO CORREICIONAL"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 256,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 256,
+    "descclasse": "REPRESENTAÇÃO POR EXCESSO DE PRAZO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1199,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1199,
+    "descclasse": "PEDIDO DE PROVIDÊNCIAS"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1262,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1262,
+    "descclasse": "PROCESSO ADMINISTRATIVO DISCIPLINAR EM FACE DE SERVIDOR"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1264,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1264,
+    "descclasse": "PROCESSO ADMINISTRATIVO DISCIPLINAR EM FACE DE MAGISTRADO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1265,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1265,
+    "descclasse": "PRECATÓRIO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1266,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1266,
+    "descclasse": "REQUISIÇÃO DE PEQUENO VALOR"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1298,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1298,
+    "descclasse": "PROCESSO ADMINISTRATIVO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1299,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1299,
+    "descclasse": "RECURSO ADMINISTRATIVO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1301,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1301,
+    "descclasse": "RECLAMAÇÃO DISCIPLINAR"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1303,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1303,
+    "descclasse": "CORREIÇÃO EXTRAORDINÁRIA"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1304,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1304,
+    "descclasse": "INSPEÇÃO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1306,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1306,
+    "descclasse": "RECURSO EM PROCESSO ADMINISTRATIVO DISCIPLINAR EM FACE DE SERVIDOR"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1307,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1307,
+    "descclasse": "CORREIÇÃO ORDINÁRIA"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1308,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1308,
+    "descclasse": "SINDICÂNCIA"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 1680,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1680,
+    "descclasse": "CONSULTA ADMINISTRATIVA"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 11887,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11887,
+    "descclasse": "ACOMPANHAMENTO DE CUMPRIMENTO DE DECISÃO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 11888,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11888,
+    "descclasse": "ATO NORMATIVO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 11889,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11889,
+    "descclasse": "NOTA TÉCNICA"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 11890,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11890,
+    "descclasse": "PARECER DE MÉRITO SOBRE ANTEPROJETO DE LEI"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 11891,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11891,
+    "descclasse": "PROCEDIMENTO DE CONTROLE ADMINISTRATIVO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 11892,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11892,
+    "descclasse": "REVISÃO DISCIPLINAR"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 11893,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11893,
+    "descclasse": "RECLAMAÇÃO PARA GARANTIA DAS DECISÕES"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 11894,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11894,
+    "descclasse": "COMISSÃO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 11953,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11953,
+    "descclasse": "ARGUIÇÃO DE SUSPEIÇÃO E DE IMPEDIMENTO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 12248,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12248,
+    "descclasse": "PEDIDO DE COOPERAÇÃO JUDICIÁRIA"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 15239,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15239,
+    "descclasse": "PROPOSTA DE ANTEPROJETO DE LEI"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 15240,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15240,
+    "descclasse": "AUDITORIA"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 15241,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15241,
+    "descclasse": "AVALIAÇÃO DE OBRAS"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 15242,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15242,
+    "descclasse": "PEDIDO DE ESCLARECIMENTO"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": 15243,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15243,
+    "descclasse": "MONITORAMENTO DE AUDITORIAS E OBRAS"
+  },
+  {
+    "codnivel1": 1198,
+    "codnivel2": "NULL",
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1198,
+    "descclasse": "PROCEDIMENTOS ADMINISTRATIVOS"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1311,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1311,
+    "descclasse": "AÇÃO CAUTELAR"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1312,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1312,
+    "descclasse": "AÇÃO  ORIGINÁRIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1313,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1313,
+    "descclasse": "AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1314,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1314,
+    "descclasse": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1315,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1315,
+    "descclasse": "AÇÃO CÍVEL ORIGINÁRIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1316,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1316,
+    "descclasse": "AÇÃO ORIGINÁRIA ESPECIAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1317,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1317,
+    "descclasse": "AÇÃO PENAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1318,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1318,
+    "descclasse": "AÇÃO RESCISÓRIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1319,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1319,
+    "descclasse": "AGRAVO INTERNO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1320,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1320,
+    "descclasse": "AGRAVO DE INSTRUMENTO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1321,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1321,
+    "descclasse": "AGRAVO REGIMENTAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1322,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1322,
+    "descclasse": "ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1323,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1323,
+    "descclasse": "ARGUIÇÃO DE SUSPEIÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1324,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1324,
+    "descclasse": "CARTA ROGATÓRIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1325,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1325,
+    "descclasse": "COMUNICAÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1326,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1326,
+    "descclasse": "CONFLITO DE COMPETÊNCIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1327,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1327,
+    "descclasse": "EMBARGOS DE DECLARAÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1328,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1328,
+    "descclasse": "EMBARGOS DIVERGENTES"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1329,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1329,
+    "descclasse": "EMBARGOS INFRINGENTES"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1330,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1330,
+    "descclasse": "EXTRADIÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1331,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1331,
+    "descclasse": "HABEAS CORPUS"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1332,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1332,
+    "descclasse": "HABEAS DATA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1333,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1333,
+    "descclasse": "INQUERITO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1334,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1334,
+    "descclasse": "INTERVENÇÃO FEDERAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1335,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1335,
+    "descclasse": "MANDADO DE INJUNÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1336,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1336,
+    "descclasse": "MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1337,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1337,
+    "descclasse": "MEDIDA CAUTELAR"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1338,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1338,
+    "descclasse": "PETIÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1339,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1339,
+    "descclasse": "PRISÃO PREVENTIVA PARA EXTRADIÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1340,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1340,
+    "descclasse": "PROCESSO ADMINISTRATIVO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1341,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1341,
+    "descclasse": "QUESTÃO DE ORDEM"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1342,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1342,
+    "descclasse": "RECLAMAÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1343,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1343,
+    "descclasse": "RECURSO CRIMINAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1344,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1344,
+    "descclasse": "RECURSO EM HABEAS CORPUS"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1345,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1345,
+    "descclasse": "RECURSO EM HABEAS DATA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1346,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1346,
+    "descclasse": "RECURSO EM MANDADO DE INJUNÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1347,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1347,
+    "descclasse": "RECURSO EM MANDADO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1348,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1348,
+    "descclasse": "RECURSO EXTRAORDINÁRIO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1349,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1349,
+    "descclasse": "REVISÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1350,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1350,
+    "descclasse": "SENTENÇA ESTRANGEIRA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1351,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1351,
+    "descclasse": "SENTENÇA ESTRANGEIRA CONTESTADA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1352,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1352,
+    "descclasse": "SUSPENSÃO DE LIMINAR"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1353,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1353,
+    "descclasse": "SUSPENSÃO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1354,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1354,
+    "descclasse": "SUSPENSÃO DE TUTELA PROVISÓRIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1356,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1356,
+    "descclasse": "AÇÃO ORDINÁRIA REGRESSIVA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1357,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1357,
+    "descclasse": "AÇÃO REGRESSIVA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1358,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1358,
+    "descclasse": "APELAÇÃO CÍVEL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1359,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1359,
+    "descclasse": "APELAÇÃO CRIMINAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1360,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1360,
+    "descclasse": "ARGUIÇÃO DE RELEVÂNCIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1361,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1361,
+    "descclasse": "CARTA TESTEMUNHÁVEL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1362,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1362,
+    "descclasse": "CONFLITO DE ATRIBUIÇÕES"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1363,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1363,
+    "descclasse": "CONFLITO DE JURISDIÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1364,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1364,
+    "descclasse": "DENÚNCIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1365,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1365,
+    "descclasse": "EMBARGOS REMETIDOS"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1366,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1366,
+    "descclasse": "EXCEÇÃO DA VERDADE"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1367,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1367,
+    "descclasse": "EXCEÇÃO DE SUSPEIÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1368,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1368,
+    "descclasse": "INQUÉRITO ADMINISTRATIVO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1369,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1369,
+    "descclasse": "INQUÉRITO POLICIAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1370,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1370,
+    "descclasse": "INQUÉRITO POLICIAL ESPECIAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1371,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1371,
+    "descclasse": "INTERPELAÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1372,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1372,
+    "descclasse": "LIQUIDAÇÃO DE SENTENÇA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1373,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1373,
+    "descclasse": "NOTIFICAÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1374,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1374,
+    "descclasse": "PEDIDO DE AVOCAÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1375,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1375,
+    "descclasse": "PROCESSO CRIME"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1376,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1376,
+    "descclasse": "PROCESSO JUDICIAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1377,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1377,
+    "descclasse": "QUEIXA CRIME"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1378,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1378,
+    "descclasse": "RECURSO DE APREENSÃO DE LIVRO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1379,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1379,
+    "descclasse": "RECURSO DE LIQUIDAÇÃO DE SENTENÇA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1380,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1380,
+    "descclasse": "RECURSO DE REVISTA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1381,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1381,
+    "descclasse": "REPRESENTAÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1382,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1382,
+    "descclasse": "RETIFICAÇÃO DE NOME ESTRANGEIRO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1383,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1383,
+    "descclasse": "SENTENÇA ARBITRAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": 1384,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1384,
+    "descclasse": "SUSPENSÃO DE DIREITOS"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 1355,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1355,
+    "descclasse": "SIGLAS DOS PROCESSOS EXTINTOS"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 11880,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11880,
+    "descclasse": "RECURSO EXTRAORDINÁRIO COM AGRAVO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12117,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12117,
+    "descclasse": "SUSPENSÃO DO INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12190,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12190,
+    "descclasse": "SUSPENSÃO NACIONAL DO INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12191,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12191,
+    "descclasse": "TUTELA PROVISÓRIA ANTECEDENTE"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12192,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12192,
+    "descclasse": "TUTELA PROVISÓRIA INCIDENTAL"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12249,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12249,
+    "descclasse": "SUSPENSÃO EM IRDR"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12775,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12775,
+    "descclasse": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12776,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12776,
+    "descclasse": "ARGUIÇÃO DE IMPEDIMENTO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12777,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12777,
+    "descclasse": "EXCEÇÃO DE INCOMPETÊNCIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12778,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12778,
+    "descclasse": "EXCEÇÃO DE LITISPENDÊNCIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12779,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12779,
+    "descclasse": "PROPOSTA DE SÚMULA VINCULANTE"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12780,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12780,
+    "descclasse": "ADMISSÃO DE ASSISTENTE"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12781,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12781,
+    "descclasse": "IMPUGNAÇÃO AO VALOR DA CAUSA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12782,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12782,
+    "descclasse": "INCIDENTE DE FALSIDADE"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12783,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12783,
+    "descclasse": "OPOSIÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12784,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12784,
+    "descclasse": "SUSPEIÇÃO DE PERITO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12785,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12785,
+    "descclasse": "EMBARGOS À EXECUÇÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12786,
+    "codnivel3": 12787,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12787,
+    "descclasse": "EXECUÇÃO CONTRA A FAZENDA PÚBLICA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12786,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12786,
+    "descclasse": "CUMPRIMENTO DE SENTENÇA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12788,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12788,
+    "descclasse": "EXECUÇÃO CONTRA A FAZENDA PÚBLICA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12789,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12789,
+    "descclasse": "EXECUÇÃO DE PENA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12790,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12790,
+    "descclasse": "EXTENSÃO"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": 12791,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12791,
+    "descclasse": "INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA"
+  },
+  {
+    "codnivel1": 1310,
+    "codnivel2": "NULL",
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 1310,
+    "descclasse": "SUPREMO TRIBUNAL FEDERAL"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11029,
+    "codnivel3": 11034,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11034,
+    "descclasse": "CONSELHO DE JUSTIFICAÇÃO"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11029,
+    "codnivel3": 11035,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11035,
+    "descclasse": "REPRESENTAÇÃO P/ DECLARAÇÃO DE INDIGNIDADE/INCOMPATIBILIDADE"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11029,
+    "codnivel3": 11036,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11036,
+    "descclasse": "REPRESENTAÇÃO P/ PERDA DA GRADUAÇÃO"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11029,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11029,
+    "descclasse": "PROCEDIMENTOS ESPECIAIS PREVISTOS EM LEIS ESPARSAS"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11031,
+    "codnivel4": 11042,
+    "codnivel5": "NULL",
+    "codclasse": 11042,
+    "descclasse": "CORREIÇÃO PARCIAL MILITAR"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11031,
+    "codnivel4": 11043,
+    "codnivel5": 11045,
+    "codclasse": 11045,
+    "descclasse": "DESERÇÃO DE OFICIAL"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11031,
+    "codnivel4": 11043,
+    "codnivel5": 11046,
+    "codclasse": 11046,
+    "descclasse": "DESERÇÃO DE PRAÇA"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11031,
+    "codnivel4": 11043,
+    "codnivel5": 11553,
+    "codclasse": 11553,
+    "descclasse": "INSTRUÇÃO PROVISÓRIA DE DESERÇÃO"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11031,
+    "codnivel4": 11043,
+    "codnivel5": "NULL",
+    "codclasse": 11043,
+    "descclasse": "DESERÇÃO"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11031,
+    "codnivel4": 11044,
+    "codnivel5": "NULL",
+    "codclasse": 11044,
+    "descclasse": "INSUBMISSÃO"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11031,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11031,
+    "descclasse": "PROCEDIMENTO ESPECIAL"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11032,
+    "codnivel4": 11041,
+    "codnivel5": "NULL",
+    "codclasse": 11041,
+    "descclasse": "INQUÉRITO POLICIAL MILITAR"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11032,
+    "codnivel4": 11799,
+    "codnivel5": "NULL",
+    "codclasse": 11799,
+    "descclasse": "INSTRUÇÃO PROVISÓRIA DE INSUBMISSÃO"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11032,
+    "codnivel4": 11800,
+    "codnivel5": "NULL",
+    "codclasse": 11800,
+    "descclasse": "INSTRUÇÃO PROVISÓRIA DE DESERÇÃO"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11032,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11032,
+    "descclasse": "PROCEDIMENTOS INVESTIGATÓRIOS"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11033,
+    "codnivel4": 11038,
+    "codnivel5": "NULL",
+    "codclasse": 11038,
+    "descclasse": "EMBARGOS EM AÇÃO PENAL MILITAR"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11033,
+    "codnivel4": 11039,
+    "codnivel5": "NULL",
+    "codclasse": 11039,
+    "descclasse": "RECLAMAÇÃO MILITAR"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11033,
+    "codnivel4": 11040,
+    "codnivel5": "NULL",
+    "codclasse": 11040,
+    "descclasse": "RECURSO INOMINADO MILITAR"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11033,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11033,
+    "descclasse": "RECURSOS"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": 11037,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11037,
+    "descclasse": "AÇÃO PENAL MILITAR - PROCEDIMENTO ORDINÁRIO"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 11030,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11030,
+    "descclasse": "PROCESSO CRIMINAL"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": 15321,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15321,
+    "descclasse": "REVISÃO JUDICIAL - RDII"
+  },
+  {
+    "codnivel1": 11028,
+    "codnivel2": "NULL",
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11028,
+    "descclasse": "PROCESSO MILITAR"
+  },
+  {
+    "codnivel1": 11099,
+    "codnivel2": 11875,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11875,
+    "descclasse": "RECLAMAÇÃO PRÉ-PROCESSUAL"
+  },
+  {
+    "codnivel1": 11099,
+    "codnivel2": 12136,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12136,
+    "descclasse": "PEDIDO DE MEDIAÇÃO PRÉ-PROCESSUAL"
+  },
+  {
+    "codnivel1": 11099,
+    "codnivel2": 12613,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12613,
+    "descclasse": "PEDIDO DE CONCILIAÇÃO PRÉ-PROCESSUAL"
+  },
+  {
+    "codnivel1": 11099,
+    "codnivel2": "NULL",
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11099,
+    "descclasse": "PROCEDIMENTOS PRÉ-PROCESSUAIS DE RESOLUÇÃO CONSENSUAL DE CONFLITOS"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11525,
+    "codnivel3": 11526,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11526,
+    "descclasse": "AÇÃO DE IMPUGNAÇÃO DE MANDATO ELETIVO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11525,
+    "codnivel3": 11527,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11527,
+    "descclasse": "AÇÃO DE INVESTIGAÇÃO JUDICIAL ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11525,
+    "codnivel3": 12059,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12059,
+    "descclasse": "SUSPENSÃO DE SEGURANÇA - ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11525,
+    "codnivel3": 12060,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12060,
+    "descclasse": "INCIDENTE DE IMPEDIMENTO/SUSPEIÇÃO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11525,
+    "codnivel3": 12061,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12061,
+    "descclasse": "AÇÃO CAUTELAR"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11525,
+    "codnivel3": 12627,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12627,
+    "descclasse": "AÇÃO RESCISÓRIA ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11525,
+    "codnivel3": 15303,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15303,
+    "descclasse": "REPRESENTAÇÃO EM PROPAGANDA PARTIDÁRIA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11525,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11525,
+    "descclasse": "PROCESSOS CÍVEIS-ELEITORAIS"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11528,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11528,
+    "descclasse": "AÇÃO PENAL ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 11530,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11530,
+    "descclasse": "APURAÇÃO DE ELEIÇÃO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 11531,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11531,
+    "descclasse": "PRESTAÇÃO DE CONTAS"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 11532,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11532,
+    "descclasse": "REGISTRO DE CANDIDATURA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 11533,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11533,
+    "descclasse": "RECURSO CONTRA EXPEDIÇÃO DE DIPLOMA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 11538,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11538,
+    "descclasse": "REGISTRO DE COMITÊ FINANCEIRO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 11541,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11541,
+    "descclasse": "REPRESENTAÇÃO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 12193,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12193,
+    "descclasse": "PRESTAÇÃO DE CONTAS ELEITORAIS"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 12550,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12550,
+    "descclasse": "COMPOSIÇÃO DE MESA RECEPTORA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 12555,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12555,
+    "descclasse": "IMPUGNAÇÃO À COMPOSIÇÃO DE JUNTA ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 12556,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12556,
+    "descclasse": "IMPUGNAÇÃO PERANTE AS JUNTAS ELEITORAIS"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 12558,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12558,
+    "descclasse": "REGISTRO DE DEBATES"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 12561,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12561,
+    "descclasse": "NOTÍCIA DE IRREGULARIDADE EM PROPAGANDA ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 12625,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12625,
+    "descclasse": "DIREITO DE RESPOSTA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 12630,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12630,
+    "descclasse": "REPRESENTAÇÃO ESPECIAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 12633,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12633,
+    "descclasse": "REQUERIMENTO DE REGULARIZAÇÃO DE OMISSÃO DE PRESTAÇÃO DE CONTAS ELEITORAIS"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": 15323,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15323,
+    "descclasse": "RECLAMAÇÃO ADMINISTRATIVA ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11529,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11529,
+    "descclasse": "PROCEDIMENTOS RELATIVOS A REALIZAÇÃO DE ELEIÇÃO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 11535,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11535,
+    "descclasse": "CANCELAMENTO DE REGISTRO DE PARTIDO POLÍTICO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 11536,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11536,
+    "descclasse": "PROPAGANDA PARTIDÁRIA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 11537,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11537,
+    "descclasse": "REGISTRO DE ÓRGÃO DE PARTIDO POLÍTICO EM FORMAÇÃO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 11539,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11539,
+    "descclasse": "REGISTRO DE PARTIDO POLÍTICO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 12377,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12377,
+    "descclasse": "PRESTAÇÃO DE CONTAS ANUAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 12554,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12554,
+    "descclasse": "FILIAÇÃO PARTIDÁRIA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 12560,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12560,
+    "descclasse": "LISTA DE APOIAMENTO PARA CRIAÇÃO DE PARTIDO POLÍTICO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 12628,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12628,
+    "descclasse": "AÇÃO DE JUSTIFICAÇÃO DE DESFILIAÇÃO PARTIDÁRIA/PERDA DE CARGO ELETIVO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 12629,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12629,
+    "descclasse": "PEDIDO DE NOVAS ELEIÇÕES"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 12631,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12631,
+    "descclasse": "REQUERIMENTO DE REGULARIZAÇÃO DE OMISSÃO DE PRESTAÇÃO DE CONTAS ANUAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 12632,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12632,
+    "descclasse": "REQUERIMENTO DE REGULARIZAÇÃO DE OMISSÃO DE PRESTAÇÃO DE CONTAS ANUAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 14208,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 14208,
+    "descclasse": "SUSPENSÃO DE ÓRGÃO PARTIDÁRIO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": 15011,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15011,
+    "descclasse": "REGISTRO DE FEDERAÇÃO PARTIDÁRIA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11534,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11534,
+    "descclasse": "PROCEDIMENTOS RELATIVOS A PARTIDOS POLÍTICOS"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 11542,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11542,
+    "descclasse": "CORREIÇÃO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 11543,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11543,
+    "descclasse": "CRIAÇÃO DE ZONA ELEITORAL OU REMANEJAMENTO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 11544,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11544,
+    "descclasse": "INSTRUÇÃO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 11545,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11545,
+    "descclasse": "LISTA TRÍPLICE"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 11546,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11546,
+    "descclasse": "REVISÃO DE ELEITORADO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 12549,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12549,
+    "descclasse": "CANCELAMENTO DE INSCRIÇÃO ELEITORAL (CIE)"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 12551,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12551,
+    "descclasse": "DESCARTE DE MATERIAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 12553,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12553,
+    "descclasse": "DUPLICIDADE/PLURALIDADE DE INSCRIÇÕES - COINCIDÊNCIAS"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 12557,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12557,
+    "descclasse": "RECURSO/IMPUGNAÇÃO DE ALISTAMENTO ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 12559,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12559,
+    "descclasse": "REGULARIZAÇÃO DE SITUAÇÃO DO ELEITOR"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": 12562,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12562,
+    "descclasse": "PET-ADM"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11540,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11540,
+    "descclasse": "PROCEDIMENTOS ADMINISTRATIVOS DA JUSTIÇA ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11547,
+    "codnivel3": 11548,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11548,
+    "descclasse": "RECURSO ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11547,
+    "codnivel3": 11549,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11549,
+    "descclasse": "RECURSO ESPECIAL ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11547,
+    "codnivel3": 11550,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11550,
+    "descclasse": "RECURSO ORDINÁRIO ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11547,
+    "codnivel3": 12057,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12057,
+    "descclasse": "REEXAME NECESSÁRIO ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11547,
+    "codnivel3": 12626,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12626,
+    "descclasse": "AGRAVO EM RECURSO ESPECIAL ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11547,
+    "codnivel3": 14209,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 14209,
+    "descclasse": "RECURSO CRIMINAL ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11547,
+    "codnivel3": 15090,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 15090,
+    "descclasse": "RECURSO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11547,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11547,
+    "descclasse": "RECURSOS ELEITORAIS"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11551,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11551,
+    "descclasse": "CONSULTA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 11552,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11552,
+    "descclasse": "PEDIDO DE DESAFORAMENTO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 12058,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12058,
+    "descclasse": "SUSPENSÃO DE SEGURANÇA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 12464,
+    "codnivel3": 12465,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12465,
+    "descclasse": "PETIÇÃO CORREGEDORIA"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 12464,
+    "codnivel3": 12466,
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12466,
+    "descclasse": "INQUÉRITO ADMINISTRATIVO"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 12464,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12464,
+    "descclasse": "CORREGEDORIA ELEITORAL"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": 12552,
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 12552,
+    "descclasse": "DIREITOS POLÍTICOS"
+  },
+  {
+    "codnivel1": 11427,
+    "codnivel2": "NULL",
+    "codnivel3": "NULL",
+    "codnivel4": "NULL",
+    "codnivel5": "NULL",
+    "codclasse": 11427,
+    "descclasse": "PROCESSO ELEITORAL"
+  }
+]
